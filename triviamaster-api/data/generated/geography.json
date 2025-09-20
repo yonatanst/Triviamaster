@@ -6,10 +6,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Afghanistan?",
     "choices": [
-      "Minsk",
-      "Nairobi",
-      "Havana",
-      "Kabul"
+      "Kabul",
+      "Baghdad",
+      "Vilnius",
+      "Tirana"
     ],
     "answer": "Kabul",
     "meta": {
@@ -25,10 +25,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Albania?",
     "choices": [
-      "Paris",
+      "San Salvador",
       "Tirana",
-      "Beirut",
-      "Yerevan"
+      "Yerevan",
+      "Beirut"
     ],
     "answer": "Tirana",
     "meta": {
@@ -44,10 +44,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Algeria?",
     "choices": [
+      "Tirana",
       "Algiers",
-      "Jakarta",
-      "Beirut",
-      "Sucre"
+      "Tehran",
+      "Kabul"
     ],
     "answer": "Algiers",
     "meta": {
@@ -63,10 +63,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Argentina?",
     "choices": [
-      "Helsinki",
-      "Berlin",
-      "San José",
-      "Buenos Aires"
+      "Baghdad",
+      "Tirana",
+      "Buenos Aires",
+      "Zagreb"
     ],
     "answer": "Buenos Aires",
     "meta": {
@@ -82,9 +82,9 @@
     "difficulty": "easy",
     "question": "What is the capital of Armenia?",
     "choices": [
-      "Addis Ababa",
-      "Budapest",
-      "Quito",
+      "Baghdad",
+      "Tallinn",
+      "Havana",
       "Yerevan"
     ],
     "answer": "Yerevan",
@@ -102,9 +102,9 @@
     "question": "What is the capital of Australia?",
     "choices": [
       "Canberra",
-      "Dhaka",
-      "Amman",
-      "Copenhagen"
+      "Kabul",
+      "Tallinn",
+      "Paris"
     ],
     "answer": "Canberra",
     "meta": {
@@ -120,10 +120,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Austria?",
     "choices": [
-      "Vienna",
-      "Ottawa",
-      "Brasília",
-      "Nicosia"
+      "Beirut",
+      "Athens",
+      "Baghdad",
+      "Vienna"
     ],
     "answer": "Vienna",
     "meta": {
@@ -140,9 +140,9 @@
     "question": "What is the capital of Azerbaijan?",
     "choices": [
       "Baku",
-      "Minsk",
-      "San José",
-      "Paris"
+      "Baghdad",
+      "Kabul",
+      "Nicosia"
     ],
     "answer": "Baku",
     "meta": {
@@ -158,9 +158,9 @@
     "difficulty": "easy",
     "question": "What is the capital of Bangladesh?",
     "choices": [
-      "Berlin",
-      "Baku",
-      "Zagreb",
+      "Brussels",
+      "Sofia",
+      "Minsk",
       "Dhaka"
     ],
     "answer": "Dhaka",
@@ -177,10 +177,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Belarus?",
     "choices": [
-      "Berlin",
-      "Tegucigalpa",
-      "Vientiane",
-      "Minsk"
+      "Yaoundé",
+      "Minsk",
+      "Jerusalem",
+      "San José"
     ],
     "answer": "Minsk",
     "meta": {
@@ -196,10 +196,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Belgium?",
     "choices": [
+      "Algiers",
       "Brussels",
-      "Luxembourg",
-      "Reykjavík",
-      "Nairobi"
+      "Bogotá",
+      "Baghdad"
     ],
     "answer": "Brussels",
     "meta": {
@@ -215,10 +215,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Bolivia?",
     "choices": [
-      "Nairobi",
+      "Budapest",
+      "Amman",
       "Sucre",
-      "Vienna",
-      "Tirana"
+      "Canberra"
     ],
     "answer": "Sucre",
     "meta": {
@@ -234,10 +234,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Bosnia and Herzegovina?",
     "choices": [
+      "Paris",
+      "Baku",
       "Sarajevo",
-      "Zagreb",
-      "Vientiane",
-      "Amman"
+      "New Delhi"
     ],
     "answer": "Sarajevo",
     "meta": {
@@ -254,9 +254,9 @@
     "question": "What is the capital of Botswana?",
     "choices": [
       "Gaborone",
-      "Kabul",
-      "Quito",
-      "Sucre"
+      "Vientiane",
+      "Astana",
+      "Baku"
     ],
     "answer": "Gaborone",
     "meta": {
@@ -272,10 +272,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Brazil?",
     "choices": [
-      "Sarajevo",
-      "Gaborone",
+      "Reykjavík",
+      "Paris",
       "Brasília",
-      "Tokyo"
+      "Algiers"
     ],
     "answer": "Brasília",
     "meta": {
@@ -291,10 +291,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Bulgaria?",
     "choices": [
-      "Buenos Aires",
-      "Sofia",
+      "Riga",
       "Astana",
-      "Beijing"
+      "Sofia",
+      "Athens"
     ],
     "answer": "Sofia",
     "meta": {
@@ -310,9 +310,9 @@
     "difficulty": "easy",
     "question": "What is the capital of Cambodia?",
     "choices": [
+      "Luxembourg",
+      "San Salvador",
       "Phnom Penh",
-      "Budapest",
-      "Tokyo",
       "Astana"
     ],
     "answer": "Phnom Penh",
@@ -329,10 +329,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Cameroon?",
     "choices": [
-      "Athens",
-      "Santo Domingo",
-      "Yaoundé",
-      "Vilnius"
+      "Sucre",
+      "Sarajevo",
+      "Canberra",
+      "Yaoundé"
     ],
     "answer": "Yaoundé",
     "meta": {
@@ -349,9 +349,9 @@
     "question": "What is the capital of Canada?",
     "choices": [
       "Ottawa",
-      "Tegucigalpa",
-      "Luxembourg",
-      "Copenhagen"
+      "Reykjavík",
+      "Guatemala City",
+      "Prague"
     ],
     "answer": "Ottawa",
     "meta": {
@@ -368,9 +368,9 @@
     "question": "What is the capital of Chile?",
     "choices": [
       "Santiago",
-      "Vientiane",
-      "San José",
-      "Copenhagen"
+      "Tokyo",
+      "Riga",
+      "Beijing"
     ],
     "answer": "Santiago",
     "meta": {
@@ -386,10 +386,10 @@
     "difficulty": "easy",
     "question": "What is the capital of China?",
     "choices": [
-      "Amman",
-      "Tegucigalpa",
-      "Yerevan",
-      "Beijing"
+      "Athens",
+      "Helsinki",
+      "Beijing",
+      "Luxembourg"
     ],
     "answer": "Beijing",
     "meta": {
@@ -405,10 +405,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Colombia?",
     "choices": [
-      "Tegucigalpa",
       "Bogotá",
-      "Helsinki",
-      "New Delhi"
+      "Jakarta",
+      "Beirut",
+      "Baku"
     ],
     "answer": "Bogotá",
     "meta": {
@@ -424,10 +424,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Costa Rica?",
     "choices": [
-      "Tirana",
-      "Kabul",
-      "Guatemala City",
-      "San José"
+      "New Delhi",
+      "San José",
+      "Helsinki",
+      "Tokyo"
     ],
     "answer": "San José",
     "meta": {
@@ -443,10 +443,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Croatia?",
     "choices": [
-      "Riga",
-      "Baku",
-      "Rome",
-      "Zagreb"
+      "Ottawa",
+      "Astana",
+      "Zagreb",
+      "Tegucigalpa"
     ],
     "answer": "Zagreb",
     "meta": {
@@ -462,10 +462,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Cuba?",
     "choices": [
-      "Tirana",
       "Havana",
-      "Riga",
-      "Yerevan"
+      "Luxembourg",
+      "Helsinki",
+      "Astana"
     ],
     "answer": "Havana",
     "meta": {
@@ -481,10 +481,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Cyprus?",
     "choices": [
-      "Luxembourg",
-      "Rome",
+      "Tegucigalpa",
+      "Beirut",
       "Nicosia",
-      "Copenhagen"
+      "Santo Domingo"
     ],
     "answer": "Nicosia",
     "meta": {
@@ -500,10 +500,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Czechia?",
     "choices": [
-      "Baghdad",
-      "Buenos Aires",
-      "Vilnius",
-      "Prague"
+      "Phnom Penh",
+      "Prague",
+      "Yaoundé",
+      "Vilnius"
     ],
     "answer": "Prague",
     "meta": {
@@ -519,10 +519,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Denmark?",
     "choices": [
-      "Jerusalem",
-      "Copenhagen",
-      "Vienna",
-      "Gaborone"
+      "Brasília",
+      "Dublin",
+      "Prague",
+      "Copenhagen"
     ],
     "answer": "Copenhagen",
     "meta": {
@@ -538,10 +538,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Dominican Republic?",
     "choices": [
-      "Yaoundé",
-      "Beijing",
+      "Paris",
       "Santo Domingo",
-      "Zagreb"
+      "Guatemala City",
+      "Sofia"
     ],
     "answer": "Santo Domingo",
     "meta": {
@@ -557,9 +557,9 @@
     "difficulty": "easy",
     "question": "What is the capital of Ecuador?",
     "choices": [
-      "Prague",
-      "Jerusalem",
+      "San Salvador",
       "Quito",
+      "Minsk",
       "Yaoundé"
     ],
     "answer": "Quito",
@@ -576,9 +576,9 @@
     "difficulty": "easy",
     "question": "What is the capital of Egypt?",
     "choices": [
-      "Paris",
-      "Sarajevo",
-      "Dhaka",
+      "Athens",
+      "Sucre",
+      "Tirana",
       "Cairo"
     ],
     "answer": "Cairo",
@@ -595,10 +595,10 @@
     "difficulty": "easy",
     "question": "What is the capital of El Salvador?",
     "choices": [
-      "Jerusalem",
+      "Brussels",
+      "Riga",
       "San Salvador",
-      "Guatemala City",
-      "Riga"
+      "Bogotá"
     ],
     "answer": "San Salvador",
     "meta": {
@@ -614,10 +614,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Estonia?",
     "choices": [
-      "Vientiane",
-      "Minsk",
-      "Dhaka",
-      "Tallinn"
+      "Kabul",
+      "Beijing",
+      "Tallinn",
+      "Sofia"
     ],
     "answer": "Tallinn",
     "meta": {
@@ -633,10 +633,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Ethiopia?",
     "choices": [
-      "Vienna",
-      "Dhaka",
+      "Nicosia",
+      "Sucre",
       "Addis Ababa",
-      "Rome"
+      "Accra"
     ],
     "answer": "Addis Ababa",
     "meta": {
@@ -652,10 +652,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Finland?",
     "choices": [
+      "Nicosia",
       "Helsinki",
-      "Nairobi",
-      "Tokyo",
-      "Cairo"
+      "Addis Ababa",
+      "Reykjavík"
     ],
     "answer": "Helsinki",
     "meta": {
@@ -671,10 +671,10 @@
     "difficulty": "easy",
     "question": "What is the capital of France?",
     "choices": [
-      "Santo Domingo",
-      "Nairobi",
-      "Dhaka",
-      "Paris"
+      "Vienna",
+      "Baghdad",
+      "Paris",
+      "San José"
     ],
     "answer": "Paris",
     "meta": {
@@ -691,9 +691,9 @@
     "question": "What is the capital of Georgia?",
     "choices": [
       "Tbilisi",
-      "Sofia",
-      "Cairo",
-      "Ottawa"
+      "Brussels",
+      "Prague",
+      "Minsk"
     ],
     "answer": "Tbilisi",
     "meta": {
@@ -709,10 +709,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Germany?",
     "choices": [
-      "Tallinn",
-      "Berlin",
-      "Dhaka",
-      "Riga"
+      "Havana",
+      "Dublin",
+      "Cairo",
+      "Berlin"
     ],
     "answer": "Berlin",
     "meta": {
@@ -728,10 +728,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Ghana?",
     "choices": [
-      "Luxembourg",
-      "Algiers",
-      "Accra",
-      "Copenhagen"
+      "Addis Ababa",
+      "Kabul",
+      "Tbilisi",
+      "Accra"
     ],
     "answer": "Accra",
     "meta": {
@@ -747,10 +747,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Greece?",
     "choices": [
+      "Brussels",
       "Athens",
-      "Sarajevo",
-      "Algiers",
-      "Canberra"
+      "Canberra",
+      "Astana"
     ],
     "answer": "Athens",
     "meta": {
@@ -767,9 +767,9 @@
     "question": "What is the capital of Guatemala?",
     "choices": [
       "Guatemala City",
-      "Athens",
-      "Kabul",
-      "Beijing"
+      "Nairobi",
+      "Reykjavík",
+      "Paris"
     ],
     "answer": "Guatemala City",
     "meta": {
@@ -785,10 +785,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Honduras?",
     "choices": [
+      "Tegucigalpa",
       "Vientiane",
-      "Luxembourg",
-      "Sucre",
-      "Tegucigalpa"
+      "Vienna",
+      "San José"
     ],
     "answer": "Tegucigalpa",
     "meta": {
@@ -804,10 +804,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Hungary?",
     "choices": [
-      "Vienna",
-      "Yaoundé",
-      "Nairobi",
-      "Budapest"
+      "Guatemala City",
+      "Yerevan",
+      "Budapest",
+      "Vienna"
     ],
     "answer": "Budapest",
     "meta": {
@@ -823,10 +823,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Iceland?",
     "choices": [
+      "Jerusalem",
+      "Yaoundé",
       "Reykjavík",
-      "Rome",
-      "Vilnius",
-      "Bogotá"
+      "Canberra"
     ],
     "answer": "Reykjavík",
     "meta": {
@@ -842,10 +842,10 @@
     "difficulty": "easy",
     "question": "What is the capital of India?",
     "choices": [
-      "Phnom Penh",
       "New Delhi",
-      "Copenhagen",
-      "Berlin"
+      "Baku",
+      "Havana",
+      "Canberra"
     ],
     "answer": "New Delhi",
     "meta": {
@@ -861,10 +861,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Indonesia?",
     "choices": [
-      "Athens",
-      "Beirut",
+      "Havana",
       "Jakarta",
-      "Santo Domingo"
+      "Brussels",
+      "Reykjavík"
     ],
     "answer": "Jakarta",
     "meta": {
@@ -880,10 +880,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Iran?",
     "choices": [
-      "Santiago",
-      "New Delhi",
-      "Luxembourg",
-      "Tehran"
+      "Tehran",
+      "Amman",
+      "Nairobi",
+      "Guatemala City"
     ],
     "answer": "Tehran",
     "meta": {
@@ -899,10 +899,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Iraq?",
     "choices": [
-      "Baghdad",
-      "Nicosia",
-      "Dhaka",
-      "Yaoundé"
+      "Copenhagen",
+      "Riga",
+      "Sofia",
+      "Baghdad"
     ],
     "answer": "Baghdad",
     "meta": {
@@ -918,10 +918,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Ireland?",
     "choices": [
-      "Beijing",
+      "Havana",
       "Dublin",
-      "Ottawa",
-      "Tirana"
+      "Sucre",
+      "Addis Ababa"
     ],
     "answer": "Dublin",
     "meta": {
@@ -937,10 +937,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Israel?",
     "choices": [
+      "Kabul",
+      "Dublin",
       "Jerusalem",
-      "Rome",
-      "Astana",
-      "Guatemala City"
+      "Beijing"
     ],
     "answer": "Jerusalem",
     "meta": {
@@ -956,10 +956,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Italy?",
     "choices": [
-      "Sucre",
       "Rome",
-      "Accra",
-      "Paris"
+      "Copenhagen",
+      "Tegucigalpa",
+      "Luxembourg"
     ],
     "answer": "Rome",
     "meta": {
@@ -975,10 +975,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Japan?",
     "choices": [
-      "Brasília",
+      "Athens",
+      "Santiago",
       "Tokyo",
-      "Beijing",
-      "Tegucigalpa"
+      "Havana"
     ],
     "answer": "Tokyo",
     "meta": {
@@ -994,9 +994,9 @@
     "difficulty": "easy",
     "question": "What is the capital of Jordan?",
     "choices": [
-      "Phnom Penh",
-      "Beijing",
-      "Vilnius",
+      "Tallinn",
+      "Vientiane",
+      "Kabul",
       "Amman"
     ],
     "answer": "Amman",
@@ -1013,9 +1013,9 @@
     "difficulty": "easy",
     "question": "What is the capital of Kazakhstan?",
     "choices": [
-      "Brasília",
-      "Vienna",
-      "Yerevan",
+      "San Salvador",
+      "Buenos Aires",
+      "New Delhi",
       "Astana"
     ],
     "answer": "Astana",
@@ -1032,9 +1032,9 @@
     "difficulty": "easy",
     "question": "What is the capital of Kenya?",
     "choices": [
-      "Santo Domingo",
-      "Santiago",
-      "Dublin",
+      "Luxembourg",
+      "Phnom Penh",
+      "Tegucigalpa",
       "Nairobi"
     ],
     "answer": "Nairobi",
@@ -1052,9 +1052,9 @@
     "question": "What is the capital of Laos?",
     "choices": [
       "Vientiane",
-      "Quito",
-      "Reykjavík",
-      "Jakarta"
+      "Sucre",
+      "Rome",
+      "Quito"
     ],
     "answer": "Vientiane",
     "meta": {
@@ -1071,9 +1071,9 @@
     "question": "What is the capital of Latvia?",
     "choices": [
       "Riga",
-      "Berlin",
-      "Tirana",
-      "Santiago"
+      "New Delhi",
+      "San Salvador",
+      "Addis Ababa"
     ],
     "answer": "Riga",
     "meta": {
@@ -1089,10 +1089,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Lebanon?",
     "choices": [
-      "Reykjavík",
       "Beirut",
-      "Helsinki",
-      "San José"
+      "Kabul",
+      "Rome",
+      "Guatemala City"
     ],
     "answer": "Beirut",
     "meta": {
@@ -1108,10 +1108,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Lithuania?",
     "choices": [
-      "San José",
       "Vilnius",
-      "Vienna",
-      "Baku"
+      "Addis Ababa",
+      "Helsinki",
+      "New Delhi"
     ],
     "answer": "Vilnius",
     "meta": {
@@ -1127,10 +1127,10 @@
     "difficulty": "easy",
     "question": "What is the capital of Luxembourg?",
     "choices": [
-      "Guatemala City",
+      "Canberra",
       "Luxembourg",
-      "Tehran",
-      "Beijing"
+      "Berlin",
+      "Sucre"
     ],
     "answer": "Luxembourg",
     "meta": {
@@ -1146,10 +1146,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Kabul?",
     "choices": [
-      "Bangladesh",
       "Afghanistan",
-      "Israel",
-      "Cambodia"
+      "Japan",
+      "Kazakhstan",
+      "Bosnia and Herzegovina"
     ],
     "answer": "Afghanistan",
     "meta": {
@@ -1165,10 +1165,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Tirana?",
     "choices": [
-      "Italy",
-      "Denmark",
+      "China",
       "Albania",
-      "Croatia"
+      "Guatemala",
+      "Belarus"
     ],
     "answer": "Albania",
     "meta": {
@@ -1184,9 +1184,9 @@
     "difficulty": "medium",
     "question": "Which country's capital is Algiers?",
     "choices": [
-      "Ireland",
-      "Albania",
-      "Laos",
+      "Israel",
+      "Iraq",
+      "Bosnia and Herzegovina",
       "Algeria"
     ],
     "answer": "Algeria",
@@ -1203,9 +1203,9 @@
     "difficulty": "medium",
     "question": "Which country's capital is Buenos Aires?",
     "choices": [
-      "Afghanistan",
-      "India",
-      "Georgia",
+      "Iceland",
+      "Belarus",
+      "Albania",
       "Argentina"
     ],
     "answer": "Argentina",
@@ -1222,10 +1222,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Yerevan?",
     "choices": [
-      "Guatemala",
-      "Bolivia",
-      "Albania",
-      "Armenia"
+      "Ghana",
+      "Armenia",
+      "Indonesia",
+      "Kenya"
     ],
     "answer": "Armenia",
     "meta": {
@@ -1241,10 +1241,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Canberra?",
     "choices": [
+      "Cyprus",
+      "Kenya",
       "Australia",
-      "Colombia",
-      "Laos",
-      "Iran"
+      "Jordan"
     ],
     "answer": "Australia",
     "meta": {
@@ -1260,10 +1260,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Vienna?",
     "choices": [
-      "Belarus",
-      "Georgia",
       "El Salvador",
-      "Austria"
+      "Austria",
+      "Israel",
+      "Finland"
     ],
     "answer": "Austria",
     "meta": {
@@ -1279,10 +1279,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Baku?",
     "choices": [
-      "Georgia",
+      "Chile",
+      "Australia",
       "Azerbaijan",
-      "Kenya",
-      "Chile"
+      "Belgium"
     ],
     "answer": "Azerbaijan",
     "meta": {
@@ -1298,10 +1298,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Dhaka?",
     "choices": [
-      "Belgium",
-      "Indonesia",
-      "Kazakhstan",
-      "Bangladesh"
+      "Jordan",
+      "Belarus",
+      "Bangladesh",
+      "Bulgaria"
     ],
     "answer": "Bangladesh",
     "meta": {
@@ -1317,10 +1317,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Minsk?",
     "choices": [
-      "France",
-      "Ethiopia",
-      "China",
-      "Belarus"
+      "Belarus",
+      "Ireland",
+      "Lebanon",
+      "Australia"
     ],
     "answer": "Belarus",
     "meta": {
@@ -1336,10 +1336,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Brussels?",
     "choices": [
-      "Costa Rica",
+      "Latvia",
       "Belgium",
-      "Bangladesh",
-      "Finland"
+      "Australia",
+      "Bulgaria"
     ],
     "answer": "Belgium",
     "meta": {
@@ -1355,10 +1355,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Sucre?",
     "choices": [
-      "Ghana",
-      "Colombia",
-      "Jordan",
-      "Bolivia"
+      "Bosnia and Herzegovina",
+      "Bolivia",
+      "Georgia",
+      "Bangladesh"
     ],
     "answer": "Bolivia",
     "meta": {
@@ -1374,10 +1374,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Sarajevo?",
     "choices": [
-      "Cyprus",
+      "Cuba",
+      "Cameroon",
       "Bosnia and Herzegovina",
-      "Iraq",
-      "Kazakhstan"
+      "Bulgaria"
     ],
     "answer": "Bosnia and Herzegovina",
     "meta": {
@@ -1393,10 +1393,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Gaborone?",
     "choices": [
-      "Algeria",
+      "China",
+      "Belgium",
       "Botswana",
-      "Indonesia",
-      "Azerbaijan"
+      "Cyprus"
     ],
     "answer": "Botswana",
     "meta": {
@@ -1412,10 +1412,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Brasília?",
     "choices": [
+      "Australia",
       "Brazil",
-      "Bulgaria",
-      "Luxembourg",
-      "Lebanon"
+      "Ecuador",
+      "Austria"
     ],
     "answer": "Brazil",
     "meta": {
@@ -1431,10 +1431,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Sofia?",
     "choices": [
-      "Belgium",
+      "Kenya",
+      "Chile",
       "Bulgaria",
-      "China",
-      "France"
+      "Cyprus"
     ],
     "answer": "Bulgaria",
     "meta": {
@@ -1450,10 +1450,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Phnom Penh?",
     "choices": [
-      "Israel",
-      "Cambodia",
+      "Honduras",
+      "Ethiopia",
       "El Salvador",
-      "Japan"
+      "Cambodia"
     ],
     "answer": "Cambodia",
     "meta": {
@@ -1469,10 +1469,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Yaoundé?",
     "choices": [
-      "Albania",
+      "Iran",
+      "Egypt",
       "Cameroon",
-      "Latvia",
-      "Bulgaria"
+      "Canada"
     ],
     "answer": "Cameroon",
     "meta": {
@@ -1488,10 +1488,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Ottawa?",
     "choices": [
-      "Japan",
-      "Egypt",
-      "Cuba",
-      "Canada"
+      "Estonia",
+      "Canada",
+      "Croatia",
+      "Honduras"
     ],
     "answer": "Canada",
     "meta": {
@@ -1507,10 +1507,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Santiago?",
     "choices": [
-      "Luxembourg",
-      "El Salvador",
       "Chile",
-      "India"
+      "Israel",
+      "Australia",
+      "Ghana"
     ],
     "answer": "Chile",
     "meta": {
@@ -1526,10 +1526,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Beijing?",
     "choices": [
-      "Iran",
-      "Georgia",
+      "Kenya",
+      "Denmark",
       "China",
-      "Japan"
+      "Australia"
     ],
     "answer": "China",
     "meta": {
@@ -1545,10 +1545,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Bogotá?",
     "choices": [
-      "Brazil",
-      "Ghana",
-      "Ethiopia",
-      "Colombia"
+      "Colombia",
+      "Belarus",
+      "Croatia",
+      "Denmark"
     ],
     "answer": "Colombia",
     "meta": {
@@ -1564,10 +1564,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is San José?",
     "choices": [
-      "Guatemala",
-      "Italy",
-      "El Salvador",
-      "Costa Rica"
+      "Costa Rica",
+      "Colombia",
+      "Israel",
+      "Bangladesh"
     ],
     "answer": "Costa Rica",
     "meta": {
@@ -1584,9 +1584,9 @@
     "question": "Which country's capital is Zagreb?",
     "choices": [
       "Croatia",
-      "Dominican Republic",
-      "Iran",
-      "Bosnia and Herzegovina"
+      "Luxembourg",
+      "Belgium",
+      "Lebanon"
     ],
     "answer": "Croatia",
     "meta": {
@@ -1602,10 +1602,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Havana?",
     "choices": [
+      "Bangladesh",
+      "Iran",
       "Cuba",
-      "Israel",
-      "Dominican Republic",
-      "Laos"
+      "Brazil"
     ],
     "answer": "Cuba",
     "meta": {
@@ -1621,10 +1621,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Nicosia?",
     "choices": [
-      "Jordan",
+      "Iran",
+      "Argentina",
       "Cyprus",
-      "Bosnia and Herzegovina",
-      "Bangladesh"
+      "Indonesia"
     ],
     "answer": "Cyprus",
     "meta": {
@@ -1640,10 +1640,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Prague?",
     "choices": [
-      "Belarus",
-      "Czechia",
       "Iran",
-      "Iraq"
+      "Algeria",
+      "Czechia",
+      "Ghana"
     ],
     "answer": "Czechia",
     "meta": {
@@ -1659,10 +1659,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Copenhagen?",
     "choices": [
+      "Estonia",
       "Denmark",
-      "France",
-      "Jordan",
-      "Georgia"
+      "Iran",
+      "Cameroon"
     ],
     "answer": "Denmark",
     "meta": {
@@ -1679,9 +1679,9 @@
     "question": "Which country's capital is Santo Domingo?",
     "choices": [
       "Dominican Republic",
-      "Croatia",
-      "Albania",
-      "Ecuador"
+      "India",
+      "Belarus",
+      "Latvia"
     ],
     "answer": "Dominican Republic",
     "meta": {
@@ -1697,10 +1697,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Quito?",
     "choices": [
-      "Australia",
+      "Austria",
+      "Bosnia and Herzegovina",
       "Ecuador",
-      "Israel",
-      "Bulgaria"
+      "Colombia"
     ],
     "answer": "Ecuador",
     "meta": {
@@ -1716,10 +1716,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Cairo?",
     "choices": [
+      "Germany",
       "Egypt",
-      "Kenya",
-      "Belgium",
-      "Colombia"
+      "Australia",
+      "Cuba"
     ],
     "answer": "Egypt",
     "meta": {
@@ -1735,10 +1735,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is San Salvador?",
     "choices": [
-      "Egypt",
       "El Salvador",
-      "Iran",
-      "Belgium"
+      "Costa Rica",
+      "Albania",
+      "Bangladesh"
     ],
     "answer": "El Salvador",
     "meta": {
@@ -1754,10 +1754,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Tallinn?",
     "choices": [
-      "Canada",
-      "Czechia",
       "Estonia",
-      "Costa Rica"
+      "Australia",
+      "Bolivia",
+      "Afghanistan"
     ],
     "answer": "Estonia",
     "meta": {
@@ -1773,10 +1773,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Addis Ababa?",
     "choices": [
+      "Hungary",
+      "Israel",
       "Ethiopia",
-      "Colombia",
-      "Lebanon",
-      "Algeria"
+      "Canada"
     ],
     "answer": "Ethiopia",
     "meta": {
@@ -1792,10 +1792,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Helsinki?",
     "choices": [
+      "Canada",
       "Finland",
-      "Iran",
-      "Bangladesh",
-      "Guatemala"
+      "Belarus",
+      "Botswana"
     ],
     "answer": "Finland",
     "meta": {
@@ -1812,9 +1812,9 @@
     "question": "Which country's capital is Paris?",
     "choices": [
       "France",
-      "Cyprus",
-      "Chile",
-      "Canada"
+      "Ghana",
+      "Belgium",
+      "Cuba"
     ],
     "answer": "France",
     "meta": {
@@ -1830,10 +1830,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Tbilisi?",
     "choices": [
-      "Botswana",
       "Georgia",
-      "Japan",
-      "Argentina"
+      "Luxembourg",
+      "Armenia",
+      "Cuba"
     ],
     "answer": "Georgia",
     "meta": {
@@ -1849,10 +1849,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Berlin?",
     "choices": [
-      "Belarus",
+      "Algeria",
+      "India",
       "Germany",
-      "Iraq",
-      "Austria"
+      "Costa Rica"
     ],
     "answer": "Germany",
     "meta": {
@@ -1868,10 +1868,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Accra?",
     "choices": [
-      "Kenya",
-      "Jordan",
+      "Belarus",
       "Ghana",
-      "Iceland"
+      "Azerbaijan",
+      "Denmark"
     ],
     "answer": "Ghana",
     "meta": {
@@ -1888,9 +1888,9 @@
     "question": "Which country's capital is Athens?",
     "choices": [
       "Israel",
-      "Lebanon",
       "Greece",
-      "Algeria"
+      "El Salvador",
+      "Guatemala"
     ],
     "answer": "Greece",
     "meta": {
@@ -1906,10 +1906,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Guatemala City?",
     "choices": [
-      "Bosnia and Herzegovina",
-      "Iran",
-      "Brazil",
-      "Guatemala"
+      "Egypt",
+      "Guatemala",
+      "Algeria",
+      "Luxembourg"
     ],
     "answer": "Guatemala",
     "meta": {
@@ -1925,10 +1925,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Tegucigalpa?",
     "choices": [
-      "Azerbaijan",
-      "Germany",
+      "Cambodia",
       "Honduras",
-      "India"
+      "Latvia",
+      "Guatemala"
     ],
     "answer": "Honduras",
     "meta": {
@@ -1944,10 +1944,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Budapest?",
     "choices": [
-      "Brazil",
-      "Albania",
-      "Hungary",
-      "Kazakhstan"
+      "Cuba",
+      "Iraq",
+      "China",
+      "Hungary"
     ],
     "answer": "Hungary",
     "meta": {
@@ -1963,10 +1963,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Reykjavík?",
     "choices": [
-      "Bulgaria",
-      "Bangladesh",
-      "Ireland",
-      "Iceland"
+      "Iceland",
+      "Colombia",
+      "Australia",
+      "Finland"
     ],
     "answer": "Iceland",
     "meta": {
@@ -1982,10 +1982,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is New Delhi?",
     "choices": [
-      "Belarus",
-      "India",
-      "Brazil",
-      "Bosnia and Herzegovina"
+      "Italy",
+      "Israel",
+      "Egypt",
+      "India"
     ],
     "answer": "India",
     "meta": {
@@ -2001,10 +2001,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Jakarta?",
     "choices": [
+      "Guatemala",
       "Indonesia",
-      "Iceland",
-      "Greece",
-      "Austria"
+      "Estonia",
+      "Kazakhstan"
     ],
     "answer": "Indonesia",
     "meta": {
@@ -2020,10 +2020,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Tehran?",
     "choices": [
-      "Albania",
-      "Costa Rica",
-      "Belarus",
-      "Iran"
+      "Kenya",
+      "Laos",
+      "Iran",
+      "Bosnia and Herzegovina"
     ],
     "answer": "Iran",
     "meta": {
@@ -2039,10 +2039,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Baghdad?",
     "choices": [
-      "Armenia",
+      "Indonesia",
       "Iraq",
-      "Canada",
-      "Israel"
+      "Italy",
+      "India"
     ],
     "answer": "Iraq",
     "meta": {
@@ -2058,10 +2058,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Dublin?",
     "choices": [
-      "Denmark",
-      "Ireland",
       "Czechia",
-      "Japan"
+      "Ireland",
+      "Colombia",
+      "Ecuador"
     ],
     "answer": "Ireland",
     "meta": {
@@ -2077,10 +2077,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Jerusalem?",
     "choices": [
-      "Czechia",
-      "Ghana",
+      "Iraq",
+      "Iceland",
       "Israel",
-      "Austria"
+      "Cambodia"
     ],
     "answer": "Israel",
     "meta": {
@@ -2096,10 +2096,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Rome?",
     "choices": [
-      "Ecuador",
-      "Israel",
-      "Albania",
-      "Italy"
+      "Ethiopia",
+      "Japan",
+      "Italy",
+      "Indonesia"
     ],
     "answer": "Italy",
     "meta": {
@@ -2115,10 +2115,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Tokyo?",
     "choices": [
-      "Algeria",
-      "Egypt",
+      "Iran",
       "Japan",
-      "Ethiopia"
+      "Cameroon",
+      "France"
     ],
     "answer": "Japan",
     "meta": {
@@ -2134,10 +2134,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Amman?",
     "choices": [
-      "Afghanistan",
-      "Jordan",
-      "Cyprus",
-      "Bulgaria"
+      "Argentina",
+      "Luxembourg",
+      "Bosnia and Herzegovina",
+      "Jordan"
     ],
     "answer": "Jordan",
     "meta": {
@@ -2153,9 +2153,9 @@
     "difficulty": "medium",
     "question": "Which country's capital is Astana?",
     "choices": [
-      "Bulgaria",
       "Argentina",
       "Honduras",
+      "Austria",
       "Kazakhstan"
     ],
     "answer": "Kazakhstan",
@@ -2172,10 +2172,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Nairobi?",
     "choices": [
-      "Austria",
-      "Denmark",
+      "Iran",
       "Kenya",
-      "Hungary"
+      "Brazil",
+      "Cambodia"
     ],
     "answer": "Kenya",
     "meta": {
@@ -2191,9 +2191,9 @@
     "difficulty": "medium",
     "question": "Which country's capital is Vientiane?",
     "choices": [
-      "Hungary",
-      "Albania",
-      "Afghanistan",
+      "Austria",
+      "Ghana",
+      "Japan",
       "Laos"
     ],
     "answer": "Laos",
@@ -2210,10 +2210,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Riga?",
     "choices": [
-      "Algeria",
       "Latvia",
-      "Ecuador",
-      "Bangladesh"
+      "Laos",
+      "Belarus",
+      "Ghana"
     ],
     "answer": "Latvia",
     "meta": {
@@ -2229,10 +2229,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Beirut?",
     "choices": [
+      "Belarus",
       "Lebanon",
-      "Estonia",
-      "Cuba",
-      "Israel"
+      "Brazil",
+      "China"
     ],
     "answer": "Lebanon",
     "meta": {
@@ -2248,10 +2248,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Vilnius?",
     "choices": [
-      "Denmark",
-      "Latvia",
       "Lithuania",
-      "Ecuador"
+      "Laos",
+      "Brazil",
+      "Denmark"
     ],
     "answer": "Lithuania",
     "meta": {
@@ -2267,10 +2267,10 @@
     "difficulty": "medium",
     "question": "Which country's capital is Luxembourg?",
     "choices": [
-      "Japan",
-      "Greece",
-      "Israel",
-      "Luxembourg"
+      "Costa Rica",
+      "Luxembourg",
+      "Bangladesh",
+      "Japan"
     ],
     "answer": "Luxembourg",
     "meta": {
@@ -2287,9 +2287,9 @@
     "question": "On which continent is Afghanistan located?",
     "choices": [
       "North America",
-      "Europe",
+      "South America",
       "Asia",
-      "South America"
+      "Oceania"
     ],
     "answer": "Asia",
     "meta": {
@@ -2304,10 +2304,10 @@
     "difficulty": "easy",
     "question": "On which continent is Albania located?",
     "choices": [
-      "South America",
+      "Asia",
       "Africa",
-      "Europe",
-      "Asia"
+      "Oceania",
+      "Europe"
     ],
     "answer": "Europe",
     "meta": {
@@ -2322,10 +2322,10 @@
     "difficulty": "easy",
     "question": "On which continent is Algeria located?",
     "choices": [
-      "Africa",
-      "Asia",
+      "Oceania",
       "North America",
-      "Europe"
+      "Africa",
+      "Asia"
     ],
     "answer": "Africa",
     "meta": {
@@ -2340,10 +2340,10 @@
     "difficulty": "easy",
     "question": "On which continent is Argentina located?",
     "choices": [
-      "South America",
+      "Africa",
       "Oceania",
-      "Europe",
-      "North America"
+      "North America",
+      "South America"
     ],
     "answer": "South America",
     "meta": {
@@ -2358,10 +2358,10 @@
     "difficulty": "easy",
     "question": "On which continent is Armenia located?",
     "choices": [
-      "Africa",
-      "Oceania",
+      "Asia",
       "South America",
-      "Asia"
+      "Oceania",
+      "Europe"
     ],
     "answer": "Asia",
     "meta": {
@@ -2376,10 +2376,10 @@
     "difficulty": "easy",
     "question": "On which continent is Australia located?",
     "choices": [
+      "Europe",
       "Asia",
-      "South America",
       "Oceania",
-      "Africa"
+      "South America"
     ],
     "answer": "Oceania",
     "meta": {
@@ -2394,10 +2394,10 @@
     "difficulty": "easy",
     "question": "On which continent is Austria located?",
     "choices": [
-      "South America",
-      "Europe",
       "Africa",
-      "Oceania"
+      "Oceania",
+      "Europe",
+      "North America"
     ],
     "answer": "Europe",
     "meta": {
@@ -2412,9 +2412,9 @@
     "difficulty": "easy",
     "question": "On which continent is Azerbaijan located?",
     "choices": [
-      "South America",
-      "Africa",
       "Asia",
+      "Africa",
+      "Europe",
       "Oceania"
     ],
     "answer": "Asia",
@@ -2430,10 +2430,10 @@
     "difficulty": "easy",
     "question": "On which continent is Bangladesh located?",
     "choices": [
+      "Africa",
       "South America",
-      "Europe",
-      "North America",
-      "Asia"
+      "Asia",
+      "Oceania"
     ],
     "answer": "Asia",
     "meta": {
@@ -2448,10 +2448,10 @@
     "difficulty": "easy",
     "question": "On which continent is Belarus located?",
     "choices": [
+      "Oceania",
       "Europe",
       "North America",
-      "Asia",
-      "South America"
+      "Africa"
     ],
     "answer": "Europe",
     "meta": {
@@ -2466,9 +2466,9 @@
     "difficulty": "easy",
     "question": "On which continent is Belgium located?",
     "choices": [
-      "Oceania",
       "South America",
       "Europe",
+      "Asia",
       "North America"
     ],
     "answer": "Europe",
@@ -2484,10 +2484,10 @@
     "difficulty": "easy",
     "question": "On which continent is Bolivia located?",
     "choices": [
-      "Africa",
-      "South America",
+      "North America",
       "Asia",
-      "North America"
+      "Oceania",
+      "South America"
     ],
     "answer": "South America",
     "meta": {
@@ -2502,10 +2502,10 @@
     "difficulty": "easy",
     "question": "On which continent is Bosnia and Herzegovina located?",
     "choices": [
-      "Oceania",
+      "Asia",
       "Africa",
-      "South America",
-      "Europe"
+      "Europe",
+      "South America"
     ],
     "answer": "Europe",
     "meta": {
@@ -2520,9 +2520,9 @@
     "difficulty": "easy",
     "question": "On which continent is Botswana located?",
     "choices": [
-      "South America",
-      "Oceania",
+      "Europe",
       "Africa",
+      "South America",
       "North America"
     ],
     "answer": "Africa",
@@ -2538,10 +2538,10 @@
     "difficulty": "easy",
     "question": "On which continent is Brazil located?",
     "choices": [
-      "Asia",
-      "South America",
+      "Europe",
+      "North America",
       "Africa",
-      "Oceania"
+      "South America"
     ],
     "answer": "South America",
     "meta": {
@@ -2556,10 +2556,10 @@
     "difficulty": "easy",
     "question": "On which continent is Bulgaria located?",
     "choices": [
-      "South America",
       "Europe",
       "Africa",
-      "North America"
+      "North America",
+      "Asia"
     ],
     "answer": "Europe",
     "meta": {
@@ -2574,10 +2574,10 @@
     "difficulty": "easy",
     "question": "On which continent is Cambodia located?",
     "choices": [
+      "North America",
+      "Europe",
       "Asia",
-      "Oceania",
-      "South America",
-      "Africa"
+      "South America"
     ],
     "answer": "Asia",
     "meta": {
@@ -2592,10 +2592,10 @@
     "difficulty": "easy",
     "question": "On which continent is Cameroon located?",
     "choices": [
-      "Asia",
-      "Oceania",
-      "North America",
-      "Africa"
+      "South America",
+      "Africa",
+      "Europe",
+      "Oceania"
     ],
     "answer": "Africa",
     "meta": {
@@ -2610,10 +2610,10 @@
     "difficulty": "easy",
     "question": "On which continent is Canada located?",
     "choices": [
-      "North America",
-      "Asia",
+      "Africa",
+      "Europe",
       "Oceania",
-      "Europe"
+      "North America"
     ],
     "answer": "North America",
     "meta": {
@@ -2628,10 +2628,10 @@
     "difficulty": "easy",
     "question": "On which continent is Chile located?",
     "choices": [
-      "North America",
-      "Asia",
+      "South America",
+      "Africa",
       "Oceania",
-      "South America"
+      "Asia"
     ],
     "answer": "South America",
     "meta": {
@@ -2646,9 +2646,9 @@
     "difficulty": "easy",
     "question": "On which continent is China located?",
     "choices": [
-      "Europe",
-      "Africa",
+      "North America",
       "Asia",
+      "Oceania",
       "South America"
     ],
     "answer": "Asia",
@@ -2664,7 +2664,7 @@
     "difficulty": "easy",
     "question": "On which continent is Colombia located?",
     "choices": [
-      "Asia",
+      "Oceania",
       "South America",
       "North America",
       "Africa"
@@ -2682,10 +2682,10 @@
     "difficulty": "easy",
     "question": "On which continent is Costa Rica located?",
     "choices": [
-      "South America",
-      "Asia",
-      "North America",
-      "Africa"
+      "Oceania",
+      "Africa",
+      "Europe",
+      "North America"
     ],
     "answer": "North America",
     "meta": {
@@ -2700,10 +2700,10 @@
     "difficulty": "easy",
     "question": "On which continent is Croatia located?",
     "choices": [
-      "Oceania",
-      "North America",
+      "South America",
       "Europe",
-      "Asia"
+      "Asia",
+      "Africa"
     ],
     "answer": "Europe",
     "meta": {
@@ -2718,10 +2718,10 @@
     "difficulty": "easy",
     "question": "On which continent is Cuba located?",
     "choices": [
+      "North America",
+      "Africa",
       "Oceania",
-      "South America",
-      "Asia",
-      "North America"
+      "Europe"
     ],
     "answer": "North America",
     "meta": {
@@ -2736,10 +2736,10 @@
     "difficulty": "easy",
     "question": "On which continent is Cyprus located?",
     "choices": [
-      "North America",
-      "Oceania",
       "Europe",
-      "Asia"
+      "Asia",
+      "Africa",
+      "North America"
     ],
     "answer": "Asia",
     "meta": {
@@ -2754,10 +2754,10 @@
     "difficulty": "easy",
     "question": "On which continent is Czechia located?",
     "choices": [
-      "Asia",
-      "Africa",
       "Europe",
-      "Oceania"
+      "Africa",
+      "South America",
+      "North America"
     ],
     "answer": "Europe",
     "meta": {
@@ -2772,10 +2772,10 @@
     "difficulty": "easy",
     "question": "On which continent is Denmark located?",
     "choices": [
-      "Oceania",
+      "North America",
       "South America",
-      "Europe",
-      "North America"
+      "Africa",
+      "Europe"
     ],
     "answer": "Europe",
     "meta": {
@@ -2791,9 +2791,9 @@
     "question": "On which continent is Dominican Republic located?",
     "choices": [
       "North America",
-      "Europe",
-      "South America",
-      "Africa"
+      "Asia",
+      "Oceania",
+      "Europe"
     ],
     "answer": "North America",
     "meta": {
@@ -2808,10 +2808,10 @@
     "difficulty": "easy",
     "question": "On which continent is Ecuador located?",
     "choices": [
-      "North America",
       "Europe",
+      "North America",
       "South America",
-      "Oceania"
+      "Africa"
     ],
     "answer": "South America",
     "meta": {
@@ -2826,10 +2826,10 @@
     "difficulty": "easy",
     "question": "On which continent is Egypt located?",
     "choices": [
-      "Asia",
+      "Oceania",
       "Europe",
-      "North America",
-      "Africa"
+      "Africa",
+      "Asia"
     ],
     "answer": "Africa",
     "meta": {
@@ -2844,10 +2844,10 @@
     "difficulty": "easy",
     "question": "On which continent is El Salvador located?",
     "choices": [
-      "North America",
+      "Asia",
       "Africa",
-      "Oceania",
-      "Asia"
+      "North America",
+      "Europe"
     ],
     "answer": "North America",
     "meta": {
@@ -2863,9 +2863,9 @@
     "question": "On which continent is Estonia located?",
     "choices": [
       "North America",
-      "Europe",
       "Africa",
-      "South America"
+      "Asia",
+      "Europe"
     ],
     "answer": "Europe",
     "meta": {
@@ -2880,10 +2880,10 @@
     "difficulty": "easy",
     "question": "On which continent is Ethiopia located?",
     "choices": [
-      "Africa",
-      "Europe",
-      "Oceania",
-      "South America"
+      "South America",
+      "Asia",
+      "North America",
+      "Africa"
     ],
     "answer": "Africa",
     "meta": {
@@ -2898,10 +2898,10 @@
     "difficulty": "easy",
     "question": "On which continent is Finland located?",
     "choices": [
-      "North America",
       "Europe",
+      "Africa",
       "Asia",
-      "Africa"
+      "South America"
     ],
     "answer": "Europe",
     "meta": {
@@ -2916,8 +2916,8 @@
     "difficulty": "easy",
     "question": "On which continent is France located?",
     "choices": [
-      "North America",
       "Oceania",
+      "North America",
       "Asia",
       "Europe"
     ],
@@ -2934,10 +2934,10 @@
     "difficulty": "easy",
     "question": "On which continent is Georgia located?",
     "choices": [
-      "Oceania",
-      "Asia",
+      "Africa",
+      "Europe",
       "North America",
-      "South America"
+      "Asia"
     ],
     "answer": "Asia",
     "meta": {
@@ -2952,10 +2952,10 @@
     "difficulty": "easy",
     "question": "On which continent is Germany located?",
     "choices": [
-      "Africa",
-      "Oceania",
       "Europe",
-      "South America"
+      "South America",
+      "Africa",
+      "Asia"
     ],
     "answer": "Europe",
     "meta": {
@@ -2970,10 +2970,10 @@
     "difficulty": "easy",
     "question": "On which continent is Ghana located?",
     "choices": [
-      "Europe",
+      "North America",
       "Africa",
-      "Asia",
-      "North America"
+      "South America",
+      "Oceania"
     ],
     "answer": "Africa",
     "meta": {
@@ -2988,10 +2988,10 @@
     "difficulty": "easy",
     "question": "On which continent is Greece located?",
     "choices": [
-      "Africa",
+      "South America",
       "Europe",
-      "Asia",
-      "North America"
+      "North America",
+      "Asia"
     ],
     "answer": "Europe",
     "meta": {
@@ -3006,9 +3006,9 @@
     "difficulty": "easy",
     "question": "On which continent is Guatemala located?",
     "choices": [
-      "Africa",
-      "South America",
+      "Oceania",
       "North America",
+      "Europe",
       "Asia"
     ],
     "answer": "North America",
@@ -3025,9 +3025,9 @@
     "question": "On which continent is Honduras located?",
     "choices": [
       "Asia",
-      "South America",
+      "North America",
       "Europe",
-      "North America"
+      "Africa"
     ],
     "answer": "North America",
     "meta": {
@@ -3042,10 +3042,10 @@
     "difficulty": "easy",
     "question": "On which continent is Hungary located?",
     "choices": [
-      "Asia",
-      "Africa",
+      "North America",
+      "Oceania",
       "Europe",
-      "South America"
+      "Asia"
     ],
     "answer": "Europe",
     "meta": {
@@ -3060,10 +3060,10 @@
     "difficulty": "easy",
     "question": "On which continent is Iceland located?",
     "choices": [
-      "Europe",
-      "Africa",
       "Asia",
-      "Oceania"
+      "Oceania",
+      "Europe",
+      "North America"
     ],
     "answer": "Europe",
     "meta": {
@@ -3078,10 +3078,10 @@
     "difficulty": "easy",
     "question": "On which continent is India located?",
     "choices": [
+      "Africa",
+      "North America",
       "Europe",
-      "Oceania",
-      "Asia",
-      "South America"
+      "Asia"
     ],
     "answer": "Asia",
     "meta": {
@@ -3096,10 +3096,10 @@
     "difficulty": "easy",
     "question": "On which continent is Indonesia located?",
     "choices": [
+      "Asia",
       "South America",
-      "Europe",
-      "North America",
-      "Asia"
+      "Oceania",
+      "Africa"
     ],
     "answer": "Asia",
     "meta": {
@@ -3114,10 +3114,10 @@
     "difficulty": "easy",
     "question": "On which continent is Iran located?",
     "choices": [
+      "Africa",
       "North America",
-      "Europe",
       "Asia",
-      "Oceania"
+      "South America"
     ],
     "answer": "Asia",
     "meta": {
@@ -3135,7 +3135,7 @@
       "Africa",
       "Asia",
       "South America",
-      "Europe"
+      "Oceania"
     ],
     "answer": "Asia",
     "meta": {
@@ -3151,9 +3151,9 @@
     "question": "On which continent is Ireland located?",
     "choices": [
       "Europe",
-      "Oceania",
       "Asia",
-      "South America"
+      "Africa",
+      "North America"
     ],
     "answer": "Europe",
     "meta": {
@@ -3186,10 +3186,10 @@
     "difficulty": "easy",
     "question": "On which continent is Italy located?",
     "choices": [
+      "South America",
+      "North America",
       "Asia",
-      "Europe",
-      "Africa",
-      "Oceania"
+      "Europe"
     ],
     "answer": "Europe",
     "meta": {
@@ -3204,10 +3204,10 @@
     "difficulty": "easy",
     "question": "On which continent is Japan located?",
     "choices": [
-      "South America",
-      "North America",
       "Oceania",
-      "Asia"
+      "Asia",
+      "Europe",
+      "South America"
     ],
     "answer": "Asia",
     "meta": {
@@ -3222,9 +3222,9 @@
     "difficulty": "easy",
     "question": "On which continent is Jordan located?",
     "choices": [
-      "Africa",
-      "Oceania",
       "Asia",
+      "South America",
+      "Africa",
       "North America"
     ],
     "answer": "Asia",
@@ -3240,10 +3240,10 @@
     "difficulty": "easy",
     "question": "On which continent is Kazakhstan located?",
     "choices": [
-      "Europe",
-      "Asia",
+      "Africa",
+      "North America",
       "Oceania",
-      "South America"
+      "Asia"
     ],
     "answer": "Asia",
     "meta": {
@@ -3258,10 +3258,10 @@
     "difficulty": "easy",
     "question": "On which continent is Kenya located?",
     "choices": [
-      "North America",
-      "Oceania",
       "Africa",
-      "Asia"
+      "Europe",
+      "South America",
+      "North America"
     ],
     "answer": "Africa",
     "meta": {
@@ -3277,9 +3277,9 @@
     "question": "On which continent is Laos located?",
     "choices": [
       "North America",
+      "Europe",
       "South America",
-      "Asia",
-      "Oceania"
+      "Asia"
     ],
     "answer": "Asia",
     "meta": {
@@ -3294,10 +3294,10 @@
     "difficulty": "easy",
     "question": "On which continent is Latvia located?",
     "choices": [
-      "Oceania",
+      "North America",
       "Africa",
-      "South America",
-      "Europe"
+      "Europe",
+      "South America"
     ],
     "answer": "Europe",
     "meta": {
@@ -3312,10 +3312,10 @@
     "difficulty": "easy",
     "question": "On which continent is Lebanon located?",
     "choices": [
-      "Europe",
+      "Asia",
+      "South America",
       "North America",
-      "Oceania",
-      "Asia"
+      "Europe"
     ],
     "answer": "Asia",
     "meta": {
@@ -3330,10 +3330,10 @@
     "difficulty": "easy",
     "question": "On which continent is Lithuania located?",
     "choices": [
-      "North America",
-      "Europe",
       "Africa",
-      "Asia"
+      "Asia",
+      "Europe",
+      "Oceania"
     ],
     "answer": "Europe",
     "meta": {
@@ -3348,10 +3348,10 @@
     "difficulty": "easy",
     "question": "On which continent is Luxembourg located?",
     "choices": [
+      "North America",
       "Africa",
-      "Europe",
-      "Asia",
-      "Oceania"
+      "Oceania",
+      "Europe"
     ],
     "answer": "Europe",
     "meta": {
