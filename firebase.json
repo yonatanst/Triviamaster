@@ -1,0 +1,6 @@
+{
+  "projects": { "default": "triviamaster-2dae9" },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}

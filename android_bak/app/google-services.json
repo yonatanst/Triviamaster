@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "561248405499",
+    "firebase_url": "https://triviamaster-2dae9-default-rtdb.firebaseio.com",
+    "project_id": "triviamaster-2dae9",
+    "storage_bucket": "triviamaster-2dae9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561248405499:android:2fb4ebfd64a943375ded5e",
+        "android_client_info": {
+          "package_name": "com.example.trivia_master"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBd_WGJCjDsgR7V2OlirHbjErH1iOqED4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561248405499:android:149c6b33b848946f5ded5e",
+        "android_client_info": {
+          "package_name": "com.triviamaster.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBd_WGJCjDsgR7V2OlirHbjErH1iOqED4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
