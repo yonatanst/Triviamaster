@@ -1,0 +1,11 @@
+{
+  "buildCommand": "cd triviamaster-api && npm install && npm run build",
+  "installCommand": "cd triviamaster-api && npm install",
+  "outputDirectory": "triviamaster-api/.next",
+  "framework": "nextjs",
+  "functions": {
+    "api/**": {
+      "runtime": "nodejs22.x"
+    }
+  }
+}
