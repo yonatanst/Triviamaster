@@ -1,0 +1,3362 @@
+[
+  {
+    "id": "a3df3563befa824920a2335c372512915cf64d77",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Afghanistan?",
+    "choices": [
+      "Minsk",
+      "Nairobi",
+      "Havana",
+      "Kabul"
+    ],
+    "answer": "Kabul",
+    "meta": {
+      "type": "capital_of",
+      "country": "Afghanistan",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "6d16c8b8cac2d66e6d438c217369540e539f1e0f",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Albania?",
+    "choices": [
+      "Paris",
+      "Tirana",
+      "Beirut",
+      "Yerevan"
+    ],
+    "answer": "Tirana",
+    "meta": {
+      "type": "capital_of",
+      "country": "Albania",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "b05afa8c5477528ce025da9b8946216b4688a41f",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Algeria?",
+    "choices": [
+      "Algiers",
+      "Jakarta",
+      "Beirut",
+      "Sucre"
+    ],
+    "answer": "Algiers",
+    "meta": {
+      "type": "capital_of",
+      "country": "Algeria",
+      "continent": "Africa"
+    }
+  },
+  {
+    "id": "c5dfe145eb6c107d00b99857ea1422f97bc1d329",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Argentina?",
+    "choices": [
+      "Helsinki",
+      "Berlin",
+      "San José",
+      "Buenos Aires"
+    ],
+    "answer": "Buenos Aires",
+    "meta": {
+      "type": "capital_of",
+      "country": "Argentina",
+      "continent": "South America"
+    }
+  },
+  {
+    "id": "90fec797653af1d8eb80ca9b856f3b7fae8cbb08",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Armenia?",
+    "choices": [
+      "Addis Ababa",
+      "Budapest",
+      "Quito",
+      "Yerevan"
+    ],
+    "answer": "Yerevan",
+    "meta": {
+      "type": "capital_of",
+      "country": "Armenia",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "e5fe74e3f90a15c793465004bffa8d3109145997",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Australia?",
+    "choices": [
+      "Canberra",
+      "Dhaka",
+      "Amman",
+      "Copenhagen"
+    ],
+    "answer": "Canberra",
+    "meta": {
+      "type": "capital_of",
+      "country": "Australia",
+      "continent": "Oceania"
+    }
+  },
+  {
+    "id": "279543a5fb5731ac1956503be2312e20b69c8662",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Austria?",
+    "choices": [
+      "Vienna",
+      "Ottawa",
+      "Brasília",
+      "Nicosia"
+    ],
+    "answer": "Vienna",
+    "meta": {
+      "type": "capital_of",
+      "country": "Austria",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "9884d63165f0b0d749ec2c36cea7ea3c6cc075e0",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Azerbaijan?",
+    "choices": [
+      "Baku",
+      "Minsk",
+      "San José",
+      "Paris"
+    ],
+    "answer": "Baku",
+    "meta": {
+      "type": "capital_of",
+      "country": "Azerbaijan",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "c2e0a3d6e38290c68edd6326d19d95b40e5cc9ba",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Bangladesh?",
+    "choices": [
+      "Berlin",
+      "Baku",
+      "Zagreb",
+      "Dhaka"
+    ],
+    "answer": "Dhaka",
+    "meta": {
+      "type": "capital_of",
+      "country": "Bangladesh",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "ea4437c834feb86b1e25571d913f8dfa0030287c",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Belarus?",
+    "choices": [
+      "Berlin",
+      "Tegucigalpa",
+      "Vientiane",
+      "Minsk"
+    ],
+    "answer": "Minsk",
+    "meta": {
+      "type": "capital_of",
+      "country": "Belarus",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "df522c2468c3620c4458f1adf85531c1be0f5c30",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Belgium?",
+    "choices": [
+      "Brussels",
+      "Luxembourg",
+      "Reykjavík",
+      "Nairobi"
+    ],
+    "answer": "Brussels",
+    "meta": {
+      "type": "capital_of",
+      "country": "Belgium",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "d5747c49bb6e4a0b073e5307664f5b440da5f509",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Bolivia?",
+    "choices": [
+      "Nairobi",
+      "Sucre",
+      "Vienna",
+      "Tirana"
+    ],
+    "answer": "Sucre",
+    "meta": {
+      "type": "capital_of",
+      "country": "Bolivia",
+      "continent": "South America"
+    }
+  },
+  {
+    "id": "5adaf36b507040a8b7197195c15e91ff3cfaebcc",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Bosnia and Herzegovina?",
+    "choices": [
+      "Sarajevo",
+      "Zagreb",
+      "Vientiane",
+      "Amman"
+    ],
+    "answer": "Sarajevo",
+    "meta": {
+      "type": "capital_of",
+      "country": "Bosnia and Herzegovina",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "515c4ff8ab6c4109aa51445bba3b68539190188d",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Botswana?",
+    "choices": [
+      "Gaborone",
+      "Kabul",
+      "Quito",
+      "Sucre"
+    ],
+    "answer": "Gaborone",
+    "meta": {
+      "type": "capital_of",
+      "country": "Botswana",
+      "continent": "Africa"
+    }
+  },
+  {
+    "id": "18c5c9d7f260198371ebe66b4cc4a7b518c5f316",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Brazil?",
+    "choices": [
+      "Sarajevo",
+      "Gaborone",
+      "Brasília",
+      "Tokyo"
+    ],
+    "answer": "Brasília",
+    "meta": {
+      "type": "capital_of",
+      "country": "Brazil",
+      "continent": "South America"
+    }
+  },
+  {
+    "id": "f1292a8b1ec7df3e1be075404cdac209acd503d2",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Bulgaria?",
+    "choices": [
+      "Buenos Aires",
+      "Sofia",
+      "Astana",
+      "Beijing"
+    ],
+    "answer": "Sofia",
+    "meta": {
+      "type": "capital_of",
+      "country": "Bulgaria",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "cc9ad1f580036552ec83cdb6110a4b13052e1b21",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Cambodia?",
+    "choices": [
+      "Phnom Penh",
+      "Budapest",
+      "Tokyo",
+      "Astana"
+    ],
+    "answer": "Phnom Penh",
+    "meta": {
+      "type": "capital_of",
+      "country": "Cambodia",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "19cab9bfea2f8d2380fc035b82b6e36854c74e82",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Cameroon?",
+    "choices": [
+      "Athens",
+      "Santo Domingo",
+      "Yaoundé",
+      "Vilnius"
+    ],
+    "answer": "Yaoundé",
+    "meta": {
+      "type": "capital_of",
+      "country": "Cameroon",
+      "continent": "Africa"
+    }
+  },
+  {
+    "id": "1a4d09a3d1b07b9280e64badbe8848712b2822e9",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Canada?",
+    "choices": [
+      "Ottawa",
+      "Tegucigalpa",
+      "Luxembourg",
+      "Copenhagen"
+    ],
+    "answer": "Ottawa",
+    "meta": {
+      "type": "capital_of",
+      "country": "Canada",
+      "continent": "North America"
+    }
+  },
+  {
+    "id": "e41172fd9117defa5036c06644e3e14487e46f1c",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Chile?",
+    "choices": [
+      "Santiago",
+      "Vientiane",
+      "San José",
+      "Copenhagen"
+    ],
+    "answer": "Santiago",
+    "meta": {
+      "type": "capital_of",
+      "country": "Chile",
+      "continent": "South America"
+    }
+  },
+  {
+    "id": "dc5c87ff8b31112074a29e0fef856df6e6d6cd2d",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of China?",
+    "choices": [
+      "Amman",
+      "Tegucigalpa",
+      "Yerevan",
+      "Beijing"
+    ],
+    "answer": "Beijing",
+    "meta": {
+      "type": "capital_of",
+      "country": "China",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "4da5703d518752fea319684c713026e2fbd7e549",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Colombia?",
+    "choices": [
+      "Tegucigalpa",
+      "Bogotá",
+      "Helsinki",
+      "New Delhi"
+    ],
+    "answer": "Bogotá",
+    "meta": {
+      "type": "capital_of",
+      "country": "Colombia",
+      "continent": "South America"
+    }
+  },
+  {
+    "id": "2e9de0d40dd54a61be3809edfe61ccf8871d1f33",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Costa Rica?",
+    "choices": [
+      "Tirana",
+      "Kabul",
+      "Guatemala City",
+      "San José"
+    ],
+    "answer": "San José",
+    "meta": {
+      "type": "capital_of",
+      "country": "Costa Rica",
+      "continent": "North America"
+    }
+  },
+  {
+    "id": "9a91981a8b4fea4d0b935795c146a2f41db2c98b",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Croatia?",
+    "choices": [
+      "Riga",
+      "Baku",
+      "Rome",
+      "Zagreb"
+    ],
+    "answer": "Zagreb",
+    "meta": {
+      "type": "capital_of",
+      "country": "Croatia",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "a151e9018825345a73cce12a602e1ba10b07ad85",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Cuba?",
+    "choices": [
+      "Tirana",
+      "Havana",
+      "Riga",
+      "Yerevan"
+    ],
+    "answer": "Havana",
+    "meta": {
+      "type": "capital_of",
+      "country": "Cuba",
+      "continent": "North America"
+    }
+  },
+  {
+    "id": "31ef227a13c0d97d9cb7d488ac08753c7c95e63e",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Cyprus?",
+    "choices": [
+      "Luxembourg",
+      "Rome",
+      "Nicosia",
+      "Copenhagen"
+    ],
+    "answer": "Nicosia",
+    "meta": {
+      "type": "capital_of",
+      "country": "Cyprus",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "b6e4b4a80a741e770fa8c5fb2637646daf6fe81e",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Czechia?",
+    "choices": [
+      "Baghdad",
+      "Buenos Aires",
+      "Vilnius",
+      "Prague"
+    ],
+    "answer": "Prague",
+    "meta": {
+      "type": "capital_of",
+      "country": "Czechia",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "a4e75dbba8e83208a3212066ac93c08b72bed8d0",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Denmark?",
+    "choices": [
+      "Jerusalem",
+      "Copenhagen",
+      "Vienna",
+      "Gaborone"
+    ],
+    "answer": "Copenhagen",
+    "meta": {
+      "type": "capital_of",
+      "country": "Denmark",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "2337047e0c061d584adf06e572cb9ee05754985d",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Dominican Republic?",
+    "choices": [
+      "Yaoundé",
+      "Beijing",
+      "Santo Domingo",
+      "Zagreb"
+    ],
+    "answer": "Santo Domingo",
+    "meta": {
+      "type": "capital_of",
+      "country": "Dominican Republic",
+      "continent": "North America"
+    }
+  },
+  {
+    "id": "1a41507a7e2d678033ab62169446934479cdcebd",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Ecuador?",
+    "choices": [
+      "Prague",
+      "Jerusalem",
+      "Quito",
+      "Yaoundé"
+    ],
+    "answer": "Quito",
+    "meta": {
+      "type": "capital_of",
+      "country": "Ecuador",
+      "continent": "South America"
+    }
+  },
+  {
+    "id": "fcecb9851493940cf52ef63550444c95e22ddbb3",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Egypt?",
+    "choices": [
+      "Paris",
+      "Sarajevo",
+      "Dhaka",
+      "Cairo"
+    ],
+    "answer": "Cairo",
+    "meta": {
+      "type": "capital_of",
+      "country": "Egypt",
+      "continent": "Africa"
+    }
+  },
+  {
+    "id": "2e43b547bbe27025ab2faa0e1c9779db3d16e790",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of El Salvador?",
+    "choices": [
+      "Jerusalem",
+      "San Salvador",
+      "Guatemala City",
+      "Riga"
+    ],
+    "answer": "San Salvador",
+    "meta": {
+      "type": "capital_of",
+      "country": "El Salvador",
+      "continent": "North America"
+    }
+  },
+  {
+    "id": "a667d4c3e90316c1f80d687dee8de57f7b200b40",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Estonia?",
+    "choices": [
+      "Vientiane",
+      "Minsk",
+      "Dhaka",
+      "Tallinn"
+    ],
+    "answer": "Tallinn",
+    "meta": {
+      "type": "capital_of",
+      "country": "Estonia",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "b1ee0a16d93adda23ab90872d51a5e87cf0fa7ee",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Ethiopia?",
+    "choices": [
+      "Vienna",
+      "Dhaka",
+      "Addis Ababa",
+      "Rome"
+    ],
+    "answer": "Addis Ababa",
+    "meta": {
+      "type": "capital_of",
+      "country": "Ethiopia",
+      "continent": "Africa"
+    }
+  },
+  {
+    "id": "a013490ceb9c0edba2f7add5644f3cae1c4d1263",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Finland?",
+    "choices": [
+      "Helsinki",
+      "Nairobi",
+      "Tokyo",
+      "Cairo"
+    ],
+    "answer": "Helsinki",
+    "meta": {
+      "type": "capital_of",
+      "country": "Finland",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "c7661c5ff3403ecefdfcadae2a8f7ffc5fa3d2e7",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of France?",
+    "choices": [
+      "Santo Domingo",
+      "Nairobi",
+      "Dhaka",
+      "Paris"
+    ],
+    "answer": "Paris",
+    "meta": {
+      "type": "capital_of",
+      "country": "France",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "13520ea45e79591136b018dc56a23cd3b4d6fa61",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Georgia?",
+    "choices": [
+      "Tbilisi",
+      "Sofia",
+      "Cairo",
+      "Ottawa"
+    ],
+    "answer": "Tbilisi",
+    "meta": {
+      "type": "capital_of",
+      "country": "Georgia",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "56ca98fd20d9102294464aeb4ddadadba373ac2b",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Germany?",
+    "choices": [
+      "Tallinn",
+      "Berlin",
+      "Dhaka",
+      "Riga"
+    ],
+    "answer": "Berlin",
+    "meta": {
+      "type": "capital_of",
+      "country": "Germany",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "b5f418c7daa414ba2fd34abcb3e5c5aec84e70a9",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Ghana?",
+    "choices": [
+      "Luxembourg",
+      "Algiers",
+      "Accra",
+      "Copenhagen"
+    ],
+    "answer": "Accra",
+    "meta": {
+      "type": "capital_of",
+      "country": "Ghana",
+      "continent": "Africa"
+    }
+  },
+  {
+    "id": "700f9e3a5cd5c39912babbf6dc003611fb40543e",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Greece?",
+    "choices": [
+      "Athens",
+      "Sarajevo",
+      "Algiers",
+      "Canberra"
+    ],
+    "answer": "Athens",
+    "meta": {
+      "type": "capital_of",
+      "country": "Greece",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "88f2c58c360ff8738657cddf1ad5756f1c6fbfe7",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Guatemala?",
+    "choices": [
+      "Guatemala City",
+      "Athens",
+      "Kabul",
+      "Beijing"
+    ],
+    "answer": "Guatemala City",
+    "meta": {
+      "type": "capital_of",
+      "country": "Guatemala",
+      "continent": "North America"
+    }
+  },
+  {
+    "id": "f55bc10ab508aee3ea907a207fd73564131e3bc8",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Honduras?",
+    "choices": [
+      "Vientiane",
+      "Luxembourg",
+      "Sucre",
+      "Tegucigalpa"
+    ],
+    "answer": "Tegucigalpa",
+    "meta": {
+      "type": "capital_of",
+      "country": "Honduras",
+      "continent": "North America"
+    }
+  },
+  {
+    "id": "94a9a4d2826d5671dc25377f6fcb51f890cbeb4f",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Hungary?",
+    "choices": [
+      "Vienna",
+      "Yaoundé",
+      "Nairobi",
+      "Budapest"
+    ],
+    "answer": "Budapest",
+    "meta": {
+      "type": "capital_of",
+      "country": "Hungary",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "41396e5cec6c65e2c46a44f1848477da3d9fdabb",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Iceland?",
+    "choices": [
+      "Reykjavík",
+      "Rome",
+      "Vilnius",
+      "Bogotá"
+    ],
+    "answer": "Reykjavík",
+    "meta": {
+      "type": "capital_of",
+      "country": "Iceland",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "52c1b33a70b506d92e691fa104c06feac3903982",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of India?",
+    "choices": [
+      "Phnom Penh",
+      "New Delhi",
+      "Copenhagen",
+      "Berlin"
+    ],
+    "answer": "New Delhi",
+    "meta": {
+      "type": "capital_of",
+      "country": "India",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "9b60894d70a87f6ba2bf19230b71dfb5f0e5091f",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Indonesia?",
+    "choices": [
+      "Athens",
+      "Beirut",
+      "Jakarta",
+      "Santo Domingo"
+    ],
+    "answer": "Jakarta",
+    "meta": {
+      "type": "capital_of",
+      "country": "Indonesia",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "17cdeaa6a2a0b7cc87d77059b757956f73b5c790",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Iran?",
+    "choices": [
+      "Santiago",
+      "New Delhi",
+      "Luxembourg",
+      "Tehran"
+    ],
+    "answer": "Tehran",
+    "meta": {
+      "type": "capital_of",
+      "country": "Iran",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "b568c4b9b5108050202cdb48a5c8d502d2bca139",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Iraq?",
+    "choices": [
+      "Baghdad",
+      "Nicosia",
+      "Dhaka",
+      "Yaoundé"
+    ],
+    "answer": "Baghdad",
+    "meta": {
+      "type": "capital_of",
+      "country": "Iraq",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "a28b1299a8a03066a53ec57de49a2cff4ba29a1c",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Ireland?",
+    "choices": [
+      "Beijing",
+      "Dublin",
+      "Ottawa",
+      "Tirana"
+    ],
+    "answer": "Dublin",
+    "meta": {
+      "type": "capital_of",
+      "country": "Ireland",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "e965ad443673bbb746aaa30c408c1fb7defa1ce2",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Israel?",
+    "choices": [
+      "Jerusalem",
+      "Rome",
+      "Astana",
+      "Guatemala City"
+    ],
+    "answer": "Jerusalem",
+    "meta": {
+      "type": "capital_of",
+      "country": "Israel",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "59595b8632ec83afefdb2a4f489868be0031266a",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Italy?",
+    "choices": [
+      "Sucre",
+      "Rome",
+      "Accra",
+      "Paris"
+    ],
+    "answer": "Rome",
+    "meta": {
+      "type": "capital_of",
+      "country": "Italy",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "7437be1c89e38b1b783394ce109e9651adf747d3",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Japan?",
+    "choices": [
+      "Brasília",
+      "Tokyo",
+      "Beijing",
+      "Tegucigalpa"
+    ],
+    "answer": "Tokyo",
+    "meta": {
+      "type": "capital_of",
+      "country": "Japan",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "838a51a3f9440c8414474979ccc0003b519b27e5",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Jordan?",
+    "choices": [
+      "Phnom Penh",
+      "Beijing",
+      "Vilnius",
+      "Amman"
+    ],
+    "answer": "Amman",
+    "meta": {
+      "type": "capital_of",
+      "country": "Jordan",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "7cea7c8f1a2a4e6084f09a5837718b3bf33ea555",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Kazakhstan?",
+    "choices": [
+      "Brasília",
+      "Vienna",
+      "Yerevan",
+      "Astana"
+    ],
+    "answer": "Astana",
+    "meta": {
+      "type": "capital_of",
+      "country": "Kazakhstan",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "bd63ca4d084b25331a29ece3c02601bd6b6e63f6",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Kenya?",
+    "choices": [
+      "Santo Domingo",
+      "Santiago",
+      "Dublin",
+      "Nairobi"
+    ],
+    "answer": "Nairobi",
+    "meta": {
+      "type": "capital_of",
+      "country": "Kenya",
+      "continent": "Africa"
+    }
+  },
+  {
+    "id": "152f93f4f382d860e45616e667cf01251c96f9c4",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Laos?",
+    "choices": [
+      "Vientiane",
+      "Quito",
+      "Reykjavík",
+      "Jakarta"
+    ],
+    "answer": "Vientiane",
+    "meta": {
+      "type": "capital_of",
+      "country": "Laos",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "6f5dd2317abe79529d33b7ac7abaf0f2b9c04225",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Latvia?",
+    "choices": [
+      "Riga",
+      "Berlin",
+      "Tirana",
+      "Santiago"
+    ],
+    "answer": "Riga",
+    "meta": {
+      "type": "capital_of",
+      "country": "Latvia",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "f62be1dcec725d348a47168d919c2c8311082ad8",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Lebanon?",
+    "choices": [
+      "Reykjavík",
+      "Beirut",
+      "Helsinki",
+      "San José"
+    ],
+    "answer": "Beirut",
+    "meta": {
+      "type": "capital_of",
+      "country": "Lebanon",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "6e7d4184fb681a85279ff6a51de668aa3a711622",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Lithuania?",
+    "choices": [
+      "San José",
+      "Vilnius",
+      "Vienna",
+      "Baku"
+    ],
+    "answer": "Vilnius",
+    "meta": {
+      "type": "capital_of",
+      "country": "Lithuania",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "fd36e399407cf512c61bf1db2f6f7293390eafe2",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "What is the capital of Luxembourg?",
+    "choices": [
+      "Guatemala City",
+      "Luxembourg",
+      "Tehran",
+      "Beijing"
+    ],
+    "answer": "Luxembourg",
+    "meta": {
+      "type": "capital_of",
+      "country": "Luxembourg",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "b871dd4a83184019b8444c8fd50584bafb9c360c",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Kabul?",
+    "choices": [
+      "Bangladesh",
+      "Afghanistan",
+      "Israel",
+      "Cambodia"
+    ],
+    "answer": "Afghanistan",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Kabul",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "f290422e768ee51d5c69426ead377c1b8824f386",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Tirana?",
+    "choices": [
+      "Italy",
+      "Denmark",
+      "Albania",
+      "Croatia"
+    ],
+    "answer": "Albania",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Tirana",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "d4d04cfec4930efb24f5edb44eed026d8890fbc8",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Algiers?",
+    "choices": [
+      "Ireland",
+      "Albania",
+      "Laos",
+      "Algeria"
+    ],
+    "answer": "Algeria",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Algiers",
+      "continent": "Africa"
+    }
+  },
+  {
+    "id": "6670a043f7026dc982578c43c08ddd22e32e77d1",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Buenos Aires?",
+    "choices": [
+      "Afghanistan",
+      "India",
+      "Georgia",
+      "Argentina"
+    ],
+    "answer": "Argentina",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Buenos Aires",
+      "continent": "South America"
+    }
+  },
+  {
+    "id": "422a69f4ee351b210e78a21bb3169de114bdaeab",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Yerevan?",
+    "choices": [
+      "Guatemala",
+      "Bolivia",
+      "Albania",
+      "Armenia"
+    ],
+    "answer": "Armenia",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Yerevan",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "e54a0ba68de6401bde21bfeb59d969353872215f",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Canberra?",
+    "choices": [
+      "Australia",
+      "Colombia",
+      "Laos",
+      "Iran"
+    ],
+    "answer": "Australia",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Canberra",
+      "continent": "Oceania"
+    }
+  },
+  {
+    "id": "6aba500c686013d47a2ffd0928b563b1f2880628",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Vienna?",
+    "choices": [
+      "Belarus",
+      "Georgia",
+      "El Salvador",
+      "Austria"
+    ],
+    "answer": "Austria",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Vienna",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "7fa41f688de7b821775c7962629d1fa77d8f3e46",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Baku?",
+    "choices": [
+      "Georgia",
+      "Azerbaijan",
+      "Kenya",
+      "Chile"
+    ],
+    "answer": "Azerbaijan",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Baku",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "7c952b85ceea9d76e6bfa0d4649be19e5d3ab0a5",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Dhaka?",
+    "choices": [
+      "Belgium",
+      "Indonesia",
+      "Kazakhstan",
+      "Bangladesh"
+    ],
+    "answer": "Bangladesh",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Dhaka",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "cc85774e4e11d53c9ce63d9aa31f5834a3ddcf29",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Minsk?",
+    "choices": [
+      "France",
+      "Ethiopia",
+      "China",
+      "Belarus"
+    ],
+    "answer": "Belarus",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Minsk",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "adf08e0929c9a75a3efba7f1d75ccfb1392c7266",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Brussels?",
+    "choices": [
+      "Costa Rica",
+      "Belgium",
+      "Bangladesh",
+      "Finland"
+    ],
+    "answer": "Belgium",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Brussels",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "3393c8b2b058fb1c14ac7a49f2f07eca2ddee36a",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Sucre?",
+    "choices": [
+      "Ghana",
+      "Colombia",
+      "Jordan",
+      "Bolivia"
+    ],
+    "answer": "Bolivia",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Sucre",
+      "continent": "South America"
+    }
+  },
+  {
+    "id": "1e9d2657c7a90fd5035ba6234a08d2f30edbb7d5",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Sarajevo?",
+    "choices": [
+      "Cyprus",
+      "Bosnia and Herzegovina",
+      "Iraq",
+      "Kazakhstan"
+    ],
+    "answer": "Bosnia and Herzegovina",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Sarajevo",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "31bd619135d07adac344657a8adb093d168b155c",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Gaborone?",
+    "choices": [
+      "Algeria",
+      "Botswana",
+      "Indonesia",
+      "Azerbaijan"
+    ],
+    "answer": "Botswana",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Gaborone",
+      "continent": "Africa"
+    }
+  },
+  {
+    "id": "067e32ce36eed14102bab888020e8219248232ac",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Brasília?",
+    "choices": [
+      "Brazil",
+      "Bulgaria",
+      "Luxembourg",
+      "Lebanon"
+    ],
+    "answer": "Brazil",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Brasília",
+      "continent": "South America"
+    }
+  },
+  {
+    "id": "8cab970d4452d280010bc8ce5f317cbe1bcbf9d8",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Sofia?",
+    "choices": [
+      "Belgium",
+      "Bulgaria",
+      "China",
+      "France"
+    ],
+    "answer": "Bulgaria",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Sofia",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "86766e23dfcec42641f77d199461a3b3cad5f525",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Phnom Penh?",
+    "choices": [
+      "Israel",
+      "Cambodia",
+      "El Salvador",
+      "Japan"
+    ],
+    "answer": "Cambodia",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Phnom Penh",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "e0e787db74559b4555a827e43d7c812d7d31ab92",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Yaoundé?",
+    "choices": [
+      "Albania",
+      "Cameroon",
+      "Latvia",
+      "Bulgaria"
+    ],
+    "answer": "Cameroon",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Yaoundé",
+      "continent": "Africa"
+    }
+  },
+  {
+    "id": "d2b8d0f2a521a7687724da404ac593ea6b257f6c",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Ottawa?",
+    "choices": [
+      "Japan",
+      "Egypt",
+      "Cuba",
+      "Canada"
+    ],
+    "answer": "Canada",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Ottawa",
+      "continent": "North America"
+    }
+  },
+  {
+    "id": "3314824ba6f9704f4228e69e5277e52e335920e0",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Santiago?",
+    "choices": [
+      "Luxembourg",
+      "El Salvador",
+      "Chile",
+      "India"
+    ],
+    "answer": "Chile",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Santiago",
+      "continent": "South America"
+    }
+  },
+  {
+    "id": "69b30cfea75b22447caa1702fb9436c32a09c03b",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Beijing?",
+    "choices": [
+      "Iran",
+      "Georgia",
+      "China",
+      "Japan"
+    ],
+    "answer": "China",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Beijing",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "2fb6a0ba87beb4f53bd09a76e0e34f7ed24a1c26",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Bogotá?",
+    "choices": [
+      "Brazil",
+      "Ghana",
+      "Ethiopia",
+      "Colombia"
+    ],
+    "answer": "Colombia",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Bogotá",
+      "continent": "South America"
+    }
+  },
+  {
+    "id": "cb4dfb3982f17d5ad0c19c1e0d4208882f509f7a",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is San José?",
+    "choices": [
+      "Guatemala",
+      "Italy",
+      "El Salvador",
+      "Costa Rica"
+    ],
+    "answer": "Costa Rica",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "San José",
+      "continent": "North America"
+    }
+  },
+  {
+    "id": "0d6a60b7ee463690a716c64b8723a6b34a83658e",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Zagreb?",
+    "choices": [
+      "Croatia",
+      "Dominican Republic",
+      "Iran",
+      "Bosnia and Herzegovina"
+    ],
+    "answer": "Croatia",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Zagreb",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "9541319866c6619bf3e7fe826d951215ec1350f9",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Havana?",
+    "choices": [
+      "Cuba",
+      "Israel",
+      "Dominican Republic",
+      "Laos"
+    ],
+    "answer": "Cuba",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Havana",
+      "continent": "North America"
+    }
+  },
+  {
+    "id": "62acec70d361d78ed5e0248478e034d4699f5213",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Nicosia?",
+    "choices": [
+      "Jordan",
+      "Cyprus",
+      "Bosnia and Herzegovina",
+      "Bangladesh"
+    ],
+    "answer": "Cyprus",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Nicosia",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "96cd4ddbd7fd8d21620cec45e0850cc1ae557930",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Prague?",
+    "choices": [
+      "Belarus",
+      "Czechia",
+      "Iran",
+      "Iraq"
+    ],
+    "answer": "Czechia",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Prague",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "1bed77bcb1a53330e5bfcd773edb014725953d09",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Copenhagen?",
+    "choices": [
+      "Denmark",
+      "France",
+      "Jordan",
+      "Georgia"
+    ],
+    "answer": "Denmark",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Copenhagen",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "0e900c80639f6ce49d99d6a687ec5b8152dce4bf",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Santo Domingo?",
+    "choices": [
+      "Dominican Republic",
+      "Croatia",
+      "Albania",
+      "Ecuador"
+    ],
+    "answer": "Dominican Republic",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Santo Domingo",
+      "continent": "North America"
+    }
+  },
+  {
+    "id": "b3ca1eb41fb3bc049ca6b93fa067f14c21eb7a98",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Quito?",
+    "choices": [
+      "Australia",
+      "Ecuador",
+      "Israel",
+      "Bulgaria"
+    ],
+    "answer": "Ecuador",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Quito",
+      "continent": "South America"
+    }
+  },
+  {
+    "id": "aa136a85c13e4d9c38ca7fcf6a5baf38a84cf17a",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Cairo?",
+    "choices": [
+      "Egypt",
+      "Kenya",
+      "Belgium",
+      "Colombia"
+    ],
+    "answer": "Egypt",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Cairo",
+      "continent": "Africa"
+    }
+  },
+  {
+    "id": "a414706d83bda2e8742617e970024bb4db1458b1",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is San Salvador?",
+    "choices": [
+      "Egypt",
+      "El Salvador",
+      "Iran",
+      "Belgium"
+    ],
+    "answer": "El Salvador",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "San Salvador",
+      "continent": "North America"
+    }
+  },
+  {
+    "id": "01a39b83274cfe60cbfd3684ff3df6f7e5374674",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Tallinn?",
+    "choices": [
+      "Canada",
+      "Czechia",
+      "Estonia",
+      "Costa Rica"
+    ],
+    "answer": "Estonia",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Tallinn",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "e76937d48ee80e3fc8d18910618b43becd7f9b7c",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Addis Ababa?",
+    "choices": [
+      "Ethiopia",
+      "Colombia",
+      "Lebanon",
+      "Algeria"
+    ],
+    "answer": "Ethiopia",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Addis Ababa",
+      "continent": "Africa"
+    }
+  },
+  {
+    "id": "56c8123f9f6346682eb45b9591c7fcbcc957dece",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Helsinki?",
+    "choices": [
+      "Finland",
+      "Iran",
+      "Bangladesh",
+      "Guatemala"
+    ],
+    "answer": "Finland",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Helsinki",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "dccf5ce76b5bbda1a3f8fec9facbb02a13471ca5",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Paris?",
+    "choices": [
+      "France",
+      "Cyprus",
+      "Chile",
+      "Canada"
+    ],
+    "answer": "France",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Paris",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "4554933c32d082e3d39199d79c64429052987c48",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Tbilisi?",
+    "choices": [
+      "Botswana",
+      "Georgia",
+      "Japan",
+      "Argentina"
+    ],
+    "answer": "Georgia",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Tbilisi",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "fdee5102140f3820f5d9fc15028f38a3e6cd455b",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Berlin?",
+    "choices": [
+      "Belarus",
+      "Germany",
+      "Iraq",
+      "Austria"
+    ],
+    "answer": "Germany",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Berlin",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "9141820e5b7bcdf8e6ecabd1bdf5aa5d546465e2",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Accra?",
+    "choices": [
+      "Kenya",
+      "Jordan",
+      "Ghana",
+      "Iceland"
+    ],
+    "answer": "Ghana",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Accra",
+      "continent": "Africa"
+    }
+  },
+  {
+    "id": "fb1cf7ed13e3cffd04e8cd0b311b1f68dfabb9f2",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Athens?",
+    "choices": [
+      "Israel",
+      "Lebanon",
+      "Greece",
+      "Algeria"
+    ],
+    "answer": "Greece",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Athens",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "edbb67532720ceed6776a565070e39dda0a00abb",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Guatemala City?",
+    "choices": [
+      "Bosnia and Herzegovina",
+      "Iran",
+      "Brazil",
+      "Guatemala"
+    ],
+    "answer": "Guatemala",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Guatemala City",
+      "continent": "North America"
+    }
+  },
+  {
+    "id": "3dc749950b42925cbfe0092804efbffbd27fddb7",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Tegucigalpa?",
+    "choices": [
+      "Azerbaijan",
+      "Germany",
+      "Honduras",
+      "India"
+    ],
+    "answer": "Honduras",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Tegucigalpa",
+      "continent": "North America"
+    }
+  },
+  {
+    "id": "06719275bfbabb7f0bb6502f27823e20e5543133",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Budapest?",
+    "choices": [
+      "Brazil",
+      "Albania",
+      "Hungary",
+      "Kazakhstan"
+    ],
+    "answer": "Hungary",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Budapest",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "745408a11911623d3cf481aa006e2ca04e177115",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Reykjavík?",
+    "choices": [
+      "Bulgaria",
+      "Bangladesh",
+      "Ireland",
+      "Iceland"
+    ],
+    "answer": "Iceland",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Reykjavík",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "d33bae36f8e5f12729d424ae889799f088195a13",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is New Delhi?",
+    "choices": [
+      "Belarus",
+      "India",
+      "Brazil",
+      "Bosnia and Herzegovina"
+    ],
+    "answer": "India",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "New Delhi",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "c5dae9edb8845ead5115c77a4a594f0194a840d0",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Jakarta?",
+    "choices": [
+      "Indonesia",
+      "Iceland",
+      "Greece",
+      "Austria"
+    ],
+    "answer": "Indonesia",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Jakarta",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "c236eddfae02b5e81b22d3dad2c50a0db7e2e4c7",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Tehran?",
+    "choices": [
+      "Albania",
+      "Costa Rica",
+      "Belarus",
+      "Iran"
+    ],
+    "answer": "Iran",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Tehran",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "25e497dae2f3bb77d64d896362da2809bf222cd2",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Baghdad?",
+    "choices": [
+      "Armenia",
+      "Iraq",
+      "Canada",
+      "Israel"
+    ],
+    "answer": "Iraq",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Baghdad",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "0690aa8648c6428a7ae538ab03f5996bbbb2fbfc",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Dublin?",
+    "choices": [
+      "Denmark",
+      "Ireland",
+      "Czechia",
+      "Japan"
+    ],
+    "answer": "Ireland",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Dublin",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "c006e7b683044010c2d5c9fb571896681f0fa599",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Jerusalem?",
+    "choices": [
+      "Czechia",
+      "Ghana",
+      "Israel",
+      "Austria"
+    ],
+    "answer": "Israel",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Jerusalem",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "822ff085dbbb56c6edf71c410ccef9d142eb881e",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Rome?",
+    "choices": [
+      "Ecuador",
+      "Israel",
+      "Albania",
+      "Italy"
+    ],
+    "answer": "Italy",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Rome",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "b9aa53d483080e90e2f965381b842ed1dccfdd1e",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Tokyo?",
+    "choices": [
+      "Algeria",
+      "Egypt",
+      "Japan",
+      "Ethiopia"
+    ],
+    "answer": "Japan",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Tokyo",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "e6fbd8d8fd9cc4f5dd96f5f989a75e6fca2b2a55",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Amman?",
+    "choices": [
+      "Afghanistan",
+      "Jordan",
+      "Cyprus",
+      "Bulgaria"
+    ],
+    "answer": "Jordan",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Amman",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "3144377d3be68aa29537d994c498f435daea0451",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Astana?",
+    "choices": [
+      "Bulgaria",
+      "Argentina",
+      "Honduras",
+      "Kazakhstan"
+    ],
+    "answer": "Kazakhstan",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Astana",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "321a7adba5edb898748f3129ece03ef6e85fb1ec",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Nairobi?",
+    "choices": [
+      "Austria",
+      "Denmark",
+      "Kenya",
+      "Hungary"
+    ],
+    "answer": "Kenya",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Nairobi",
+      "continent": "Africa"
+    }
+  },
+  {
+    "id": "0c692cf1a17154ad010147cf5ddf8fbfd0fc2af6",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Vientiane?",
+    "choices": [
+      "Hungary",
+      "Albania",
+      "Afghanistan",
+      "Laos"
+    ],
+    "answer": "Laos",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Vientiane",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "84673e8d8824e587a79eef01f939227559eeb75d",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Riga?",
+    "choices": [
+      "Algeria",
+      "Latvia",
+      "Ecuador",
+      "Bangladesh"
+    ],
+    "answer": "Latvia",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Riga",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "9a028b03f286b2a26bdee18245f68d06bae1f935",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Beirut?",
+    "choices": [
+      "Lebanon",
+      "Estonia",
+      "Cuba",
+      "Israel"
+    ],
+    "answer": "Lebanon",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Beirut",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "193d067f185f1eb3eda6d808ee3e266e7dc98aaf",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Vilnius?",
+    "choices": [
+      "Denmark",
+      "Latvia",
+      "Lithuania",
+      "Ecuador"
+    ],
+    "answer": "Lithuania",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Vilnius",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "79d59e93913f2e0c1c99836715262c72cddaef81",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "medium",
+    "question": "Which country's capital is Luxembourg?",
+    "choices": [
+      "Japan",
+      "Greece",
+      "Israel",
+      "Luxembourg"
+    ],
+    "answer": "Luxembourg",
+    "meta": {
+      "type": "which_has_capital",
+      "capital": "Luxembourg",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "b59e9a941619b709518f4cf1ccf3b12f52f2af60",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Afghanistan located?",
+    "choices": [
+      "North America",
+      "Europe",
+      "Asia",
+      "South America"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Afghanistan"
+    }
+  },
+  {
+    "id": "1a544afd8d323418a4228130d520e76ad139a181",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Albania located?",
+    "choices": [
+      "South America",
+      "Africa",
+      "Europe",
+      "Asia"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Albania"
+    }
+  },
+  {
+    "id": "7a6033ebd9887432bc27c3fd63ee48c75f6ffc9c",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Algeria located?",
+    "choices": [
+      "Africa",
+      "Asia",
+      "North America",
+      "Europe"
+    ],
+    "answer": "Africa",
+    "meta": {
+      "type": "continent_of",
+      "country": "Algeria"
+    }
+  },
+  {
+    "id": "6e1dc0ad5be2e42fca18663e194617627e218544",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Argentina located?",
+    "choices": [
+      "South America",
+      "Oceania",
+      "Europe",
+      "North America"
+    ],
+    "answer": "South America",
+    "meta": {
+      "type": "continent_of",
+      "country": "Argentina"
+    }
+  },
+  {
+    "id": "d96e126aeaac9e7797a1728f1135de5ae88daaef",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Armenia located?",
+    "choices": [
+      "Africa",
+      "Oceania",
+      "South America",
+      "Asia"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Armenia"
+    }
+  },
+  {
+    "id": "9136fb6764b8e6562b4bde5f11c3b45f71453bc4",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Australia located?",
+    "choices": [
+      "Asia",
+      "South America",
+      "Oceania",
+      "Africa"
+    ],
+    "answer": "Oceania",
+    "meta": {
+      "type": "continent_of",
+      "country": "Australia"
+    }
+  },
+  {
+    "id": "fe7980170dbd8aaa8b10f8a022edec3eafcb87ca",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Austria located?",
+    "choices": [
+      "South America",
+      "Europe",
+      "Africa",
+      "Oceania"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Austria"
+    }
+  },
+  {
+    "id": "71dd38b65eed7f4965f0666d6b76f764e10d4581",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Azerbaijan located?",
+    "choices": [
+      "South America",
+      "Africa",
+      "Asia",
+      "Oceania"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Azerbaijan"
+    }
+  },
+  {
+    "id": "a64664a3d4c0bebccd49192458711751b92a5487",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Bangladesh located?",
+    "choices": [
+      "South America",
+      "Europe",
+      "North America",
+      "Asia"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Bangladesh"
+    }
+  },
+  {
+    "id": "35a02677082e9ba4665177698be993fbb5c39b09",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Belarus located?",
+    "choices": [
+      "Europe",
+      "North America",
+      "Asia",
+      "South America"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Belarus"
+    }
+  },
+  {
+    "id": "4213f85c704337f4fdae50fed7eb4ddd6f0b45be",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Belgium located?",
+    "choices": [
+      "Oceania",
+      "South America",
+      "Europe",
+      "North America"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Belgium"
+    }
+  },
+  {
+    "id": "2dc880ee6cbbb43cedc689ba055d911b925a0963",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Bolivia located?",
+    "choices": [
+      "Africa",
+      "South America",
+      "Asia",
+      "North America"
+    ],
+    "answer": "South America",
+    "meta": {
+      "type": "continent_of",
+      "country": "Bolivia"
+    }
+  },
+  {
+    "id": "2ac28c9dc358c3e3ff49470263e64440f03480cf",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Bosnia and Herzegovina located?",
+    "choices": [
+      "Oceania",
+      "Africa",
+      "South America",
+      "Europe"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Bosnia and Herzegovina"
+    }
+  },
+  {
+    "id": "b128a704a3fd2063242d9291bd0771dfbc43efb5",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Botswana located?",
+    "choices": [
+      "South America",
+      "Oceania",
+      "Africa",
+      "North America"
+    ],
+    "answer": "Africa",
+    "meta": {
+      "type": "continent_of",
+      "country": "Botswana"
+    }
+  },
+  {
+    "id": "371cea5c8f8a222533b849c77f89b5ebedc6e4b9",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Brazil located?",
+    "choices": [
+      "Asia",
+      "South America",
+      "Africa",
+      "Oceania"
+    ],
+    "answer": "South America",
+    "meta": {
+      "type": "continent_of",
+      "country": "Brazil"
+    }
+  },
+  {
+    "id": "6293f9cc2a86af7a1a26ddb4d860c54969c20888",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Bulgaria located?",
+    "choices": [
+      "South America",
+      "Europe",
+      "Africa",
+      "North America"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Bulgaria"
+    }
+  },
+  {
+    "id": "a741d0daed637f22e0c5fa1971ac3c70209935a7",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Cambodia located?",
+    "choices": [
+      "Asia",
+      "Oceania",
+      "South America",
+      "Africa"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Cambodia"
+    }
+  },
+  {
+    "id": "e946daedd0c06e34c5d69ce122d4b2696dab1ebc",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Cameroon located?",
+    "choices": [
+      "Asia",
+      "Oceania",
+      "North America",
+      "Africa"
+    ],
+    "answer": "Africa",
+    "meta": {
+      "type": "continent_of",
+      "country": "Cameroon"
+    }
+  },
+  {
+    "id": "61eaee43fb58fafe5801066310e2953c14d1bef4",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Canada located?",
+    "choices": [
+      "North America",
+      "Asia",
+      "Oceania",
+      "Europe"
+    ],
+    "answer": "North America",
+    "meta": {
+      "type": "continent_of",
+      "country": "Canada"
+    }
+  },
+  {
+    "id": "b4454a1c1af38bc93a1a6cf91f68470df335fe28",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Chile located?",
+    "choices": [
+      "North America",
+      "Asia",
+      "Oceania",
+      "South America"
+    ],
+    "answer": "South America",
+    "meta": {
+      "type": "continent_of",
+      "country": "Chile"
+    }
+  },
+  {
+    "id": "3d62cb5ae4ee060e701705198e7994046b3bfe61",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is China located?",
+    "choices": [
+      "Europe",
+      "Africa",
+      "Asia",
+      "South America"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "China"
+    }
+  },
+  {
+    "id": "2db5476c81593efba85758dd80e1cef0e8c1e17a",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Colombia located?",
+    "choices": [
+      "Asia",
+      "South America",
+      "North America",
+      "Africa"
+    ],
+    "answer": "South America",
+    "meta": {
+      "type": "continent_of",
+      "country": "Colombia"
+    }
+  },
+  {
+    "id": "7c17cccd2e596c5fb7d72ea68549c7f371047a44",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Costa Rica located?",
+    "choices": [
+      "South America",
+      "Asia",
+      "North America",
+      "Africa"
+    ],
+    "answer": "North America",
+    "meta": {
+      "type": "continent_of",
+      "country": "Costa Rica"
+    }
+  },
+  {
+    "id": "ada01a9f0630191875505fe68531aaa0145c2a1a",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Croatia located?",
+    "choices": [
+      "Oceania",
+      "North America",
+      "Europe",
+      "Asia"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Croatia"
+    }
+  },
+  {
+    "id": "8fa7ee74b55afd5d63b5cd3fce2542fb2e06448d",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Cuba located?",
+    "choices": [
+      "Oceania",
+      "South America",
+      "Asia",
+      "North America"
+    ],
+    "answer": "North America",
+    "meta": {
+      "type": "continent_of",
+      "country": "Cuba"
+    }
+  },
+  {
+    "id": "4c465a4449501f4a1865074c74017649d3e78b47",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Cyprus located?",
+    "choices": [
+      "North America",
+      "Oceania",
+      "Europe",
+      "Asia"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Cyprus"
+    }
+  },
+  {
+    "id": "fcab92df3f5dc53e01adf9f9b277260bafafa5be",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Czechia located?",
+    "choices": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "Oceania"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Czechia"
+    }
+  },
+  {
+    "id": "a749cdd4b6b6b6676d314862351cf3a44d77c892",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Denmark located?",
+    "choices": [
+      "Oceania",
+      "South America",
+      "Europe",
+      "North America"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Denmark"
+    }
+  },
+  {
+    "id": "9885e82c1f22a56a1a9e3bf69dfd56c493754d2c",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Dominican Republic located?",
+    "choices": [
+      "North America",
+      "Europe",
+      "South America",
+      "Africa"
+    ],
+    "answer": "North America",
+    "meta": {
+      "type": "continent_of",
+      "country": "Dominican Republic"
+    }
+  },
+  {
+    "id": "7265cf0787e047dd25f8e8967779e80da1e56fda",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Ecuador located?",
+    "choices": [
+      "North America",
+      "Europe",
+      "South America",
+      "Oceania"
+    ],
+    "answer": "South America",
+    "meta": {
+      "type": "continent_of",
+      "country": "Ecuador"
+    }
+  },
+  {
+    "id": "71ebe65f098320e0a029ffaac0245819909e3c1e",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Egypt located?",
+    "choices": [
+      "Asia",
+      "Europe",
+      "North America",
+      "Africa"
+    ],
+    "answer": "Africa",
+    "meta": {
+      "type": "continent_of",
+      "country": "Egypt"
+    }
+  },
+  {
+    "id": "4b8eb201258374743c28b16e22212816bfec7941",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is El Salvador located?",
+    "choices": [
+      "North America",
+      "Africa",
+      "Oceania",
+      "Asia"
+    ],
+    "answer": "North America",
+    "meta": {
+      "type": "continent_of",
+      "country": "El Salvador"
+    }
+  },
+  {
+    "id": "9f13ed3e5690ad0dbdabd4565da73afcd8630455",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Estonia located?",
+    "choices": [
+      "North America",
+      "Europe",
+      "Africa",
+      "South America"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Estonia"
+    }
+  },
+  {
+    "id": "cb2756a8c73683feacd3e5c823cd22d5e9552df0",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Ethiopia located?",
+    "choices": [
+      "Africa",
+      "Europe",
+      "Oceania",
+      "South America"
+    ],
+    "answer": "Africa",
+    "meta": {
+      "type": "continent_of",
+      "country": "Ethiopia"
+    }
+  },
+  {
+    "id": "4ddcb42c285f37fe64389da3ce104af4fff6ac1f",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Finland located?",
+    "choices": [
+      "North America",
+      "Europe",
+      "Asia",
+      "Africa"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Finland"
+    }
+  },
+  {
+    "id": "827a780ce7708bef183fa5888c06befb5ea9fddf",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is France located?",
+    "choices": [
+      "North America",
+      "Oceania",
+      "Asia",
+      "Europe"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "France"
+    }
+  },
+  {
+    "id": "81403cdc3230e296ea4551f7751b4c044e4798ea",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Georgia located?",
+    "choices": [
+      "Oceania",
+      "Asia",
+      "North America",
+      "South America"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Georgia"
+    }
+  },
+  {
+    "id": "8c7b2434d170fc45bcdde73fbc8c338b79987150",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Germany located?",
+    "choices": [
+      "Africa",
+      "Oceania",
+      "Europe",
+      "South America"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Germany"
+    }
+  },
+  {
+    "id": "b9185799ac0faac1caeacbc5ff7e307cc8724dc2",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Ghana located?",
+    "choices": [
+      "Europe",
+      "Africa",
+      "Asia",
+      "North America"
+    ],
+    "answer": "Africa",
+    "meta": {
+      "type": "continent_of",
+      "country": "Ghana"
+    }
+  },
+  {
+    "id": "2b21a12463a4b379e5f87d04a5cd40d1ac4f43a5",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Greece located?",
+    "choices": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "North America"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Greece"
+    }
+  },
+  {
+    "id": "57b6bb20037bc35e36d7789beefc0d219979d40b",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Guatemala located?",
+    "choices": [
+      "Africa",
+      "South America",
+      "North America",
+      "Asia"
+    ],
+    "answer": "North America",
+    "meta": {
+      "type": "continent_of",
+      "country": "Guatemala"
+    }
+  },
+  {
+    "id": "eae5110fd0bedbf8dff318ca8731a832e3d5a668",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Honduras located?",
+    "choices": [
+      "Asia",
+      "South America",
+      "Europe",
+      "North America"
+    ],
+    "answer": "North America",
+    "meta": {
+      "type": "continent_of",
+      "country": "Honduras"
+    }
+  },
+  {
+    "id": "2b739aaf32d29abc0316990867305ceb1b08272b",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Hungary located?",
+    "choices": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "South America"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Hungary"
+    }
+  },
+  {
+    "id": "4b2f6bdf36a6f4b7973b503bd243cb349f38131d",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Iceland located?",
+    "choices": [
+      "Europe",
+      "Africa",
+      "Asia",
+      "Oceania"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Iceland"
+    }
+  },
+  {
+    "id": "8d839f9f27466e0ce84a720966c9258989b32253",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is India located?",
+    "choices": [
+      "Europe",
+      "Oceania",
+      "Asia",
+      "South America"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "India"
+    }
+  },
+  {
+    "id": "51448fd27bf57b496f55a9d3f87f28a610acbe4e",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Indonesia located?",
+    "choices": [
+      "South America",
+      "Europe",
+      "North America",
+      "Asia"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Indonesia"
+    }
+  },
+  {
+    "id": "171405e0808a3a76fb8d60238840f5d0f4ab2afe",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Iran located?",
+    "choices": [
+      "North America",
+      "Europe",
+      "Asia",
+      "Oceania"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Iran"
+    }
+  },
+  {
+    "id": "fd3b23aff3e24c9d4e14df6270472cf972ea2305",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Iraq located?",
+    "choices": [
+      "Africa",
+      "Asia",
+      "South America",
+      "Europe"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Iraq"
+    }
+  },
+  {
+    "id": "554ce430de0836bbd0c287951eadce91d2fa8488",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Ireland located?",
+    "choices": [
+      "Europe",
+      "Oceania",
+      "Asia",
+      "South America"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Ireland"
+    }
+  },
+  {
+    "id": "3678811368a1e00cb484087b7cf60c7679b05cf3",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Israel located?",
+    "choices": [
+      "Asia",
+      "Oceania",
+      "North America",
+      "Europe"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Israel"
+    }
+  },
+  {
+    "id": "6566e06ef59ca5a391e37d66f6a19ef44194f955",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Italy located?",
+    "choices": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "Oceania"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Italy"
+    }
+  },
+  {
+    "id": "768c745158612a46082ed649997426fb9bb2215b",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Japan located?",
+    "choices": [
+      "South America",
+      "North America",
+      "Oceania",
+      "Asia"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Japan"
+    }
+  },
+  {
+    "id": "300a6618055fb5fa1992681245ba5cccd148006e",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Jordan located?",
+    "choices": [
+      "Africa",
+      "Oceania",
+      "Asia",
+      "North America"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Jordan"
+    }
+  },
+  {
+    "id": "4f5e45a18539d5fcd5a254ae9bb65fcca0332288",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Kazakhstan located?",
+    "choices": [
+      "Europe",
+      "Asia",
+      "Oceania",
+      "South America"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Kazakhstan"
+    }
+  },
+  {
+    "id": "40b61971e32b514c4752eda4f1628217c67b4653",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Kenya located?",
+    "choices": [
+      "North America",
+      "Oceania",
+      "Africa",
+      "Asia"
+    ],
+    "answer": "Africa",
+    "meta": {
+      "type": "continent_of",
+      "country": "Kenya"
+    }
+  },
+  {
+    "id": "1b16db8ead6bc5b847306bf428e1693365622d4f",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Laos located?",
+    "choices": [
+      "North America",
+      "South America",
+      "Asia",
+      "Oceania"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Laos"
+    }
+  },
+  {
+    "id": "4b561db3fb051184868cd8f15b102b6094b29a70",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Latvia located?",
+    "choices": [
+      "Oceania",
+      "Africa",
+      "South America",
+      "Europe"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Latvia"
+    }
+  },
+  {
+    "id": "e2d74100e1ff854cf1ea57343b9d95af5c04d40b",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Lebanon located?",
+    "choices": [
+      "Europe",
+      "North America",
+      "Oceania",
+      "Asia"
+    ],
+    "answer": "Asia",
+    "meta": {
+      "type": "continent_of",
+      "country": "Lebanon"
+    }
+  },
+  {
+    "id": "8cfd25cb047076ea85631611d76db559b37cf3ee",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Lithuania located?",
+    "choices": [
+      "North America",
+      "Europe",
+      "Africa",
+      "Asia"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Lithuania"
+    }
+  },
+  {
+    "id": "9f17d5da3e8f8fef1b39405a01c119da1732b44d",
+    "category": "geography",
+    "locale": "en",
+    "difficulty": "easy",
+    "question": "On which continent is Luxembourg located?",
+    "choices": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "Oceania"
+    ],
+    "answer": "Europe",
+    "meta": {
+      "type": "continent_of",
+      "country": "Luxembourg"
+    }
+  }
+]

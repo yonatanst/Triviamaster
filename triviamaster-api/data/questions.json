@@ -1,0 +1,22 @@
+[
+  { "id": "geo-e-1", "category": "geography", "difficulty": "easy",   "text": "Which continent is Egypt in?", "correct": "Africa", "wrong": ["Asia", "Europe", "South America"] },
+  { "id": "geo-e-2", "category": "geography", "difficulty": "easy",   "text": "What is the capital of Spain?", "correct": "Madrid", "wrong": ["Barcelona", "Seville", "Valencia"] },
+  { "id": "geo-m-1", "category": "geography", "difficulty": "medium", "text": "Which country has the most natural lakes?", "correct": "Canada", "wrong": ["Russia", "USA", "Finland"] },
+  { "id": "geo-m-2", "category": "geography", "difficulty": "medium", "text": "Mount Kilimanjaro is in which country?", "correct": "Tanzania", "wrong": ["Kenya", "Ethiopia", "Uganda"] },
+  { "id": "geo-h-1", "category": "geography", "difficulty": "hard",   "text": "Which river flows through Belgrade?", "correct": "Danube", "wrong": ["Rhine", "Seine", "Dnieper"] },
+  { "id": "geo-h-2", "category": "geography", "difficulty": "hard",   "text": "What is the southernmost active volcano on Earth?", "correct": "Mount Erebus", "wrong": ["Mount Etna", "Kīlauea", "Nevado del Ruiz"] },
+
+  { "id": "sci-e-1", "category": "science", "difficulty": "easy",   "text": "What gas do plants absorb during photosynthesis?", "correct": "Carbon dioxide", "wrong": ["Oxygen", "Nitrogen", "Hydrogen"] },
+  { "id": "sci-e-2", "category": "science", "difficulty": "easy",   "text": "H2O is the chemical formula for?", "correct": "Water", "wrong": ["Hydrogen peroxide", "Salt", "Ozone"] },
+  { "id": "sci-m-1", "category": "science", "difficulty": "medium", "text": "Which particle has a negative charge?", "correct": "Electron", "wrong": ["Proton", "Neutron", "Alpha particle"] },
+  { "id": "sci-m-2", "category": "science", "difficulty": "medium", "text": "What is the powerhouse of the cell?", "correct": "Mitochondria", "wrong": ["Nucleus", "Ribosome", "Golgi apparatus"] },
+  { "id": "sci-h-1", "category": "science", "difficulty": "hard",   "text": "Which vitamin is also known as retinol?", "correct": "Vitamin A", "wrong": ["Vitamin C", "Vitamin D", "Vitamin K"] },
+  { "id": "sci-h-2", "category": "science", "difficulty": "hard",   "text": "Avogadro's number is approximately?", "correct": "6.022×10^23", "wrong": ["3.14×10^2", "9.81", "1.6×10^-19"] },
+
+  { "id": "hist-e-1", "category": "history", "difficulty": "easy",   "text": "Who was the first President of the United States?", "correct": "George Washington", "wrong": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"] },
+  { "id": "hist-e-2", "category": "history", "difficulty": "easy",   "text": "Which wall fell in 1989?", "correct": "Berlin Wall", "wrong": ["Hadrian's Wall", "Great Wall", "Wailing Wall"] },
+  { "id": "hist-m-1", "category": "history", "difficulty": "medium", "text": "Which empire used cuneiform writing?", "correct": "Sumerian", "wrong": ["Roman", "Mongol", "Aztec"] },
+  { "id": "hist-m-2", "category": "history", "difficulty": "medium", "text": "Who led the Haitian Revolution?", "correct": "Toussaint Louverture", "wrong": ["Simón Bolívar", "Che Guevara", "Hernán Cortés"] },
+  { "id": "hist-h-1", "category": "history", "difficulty": "hard",   "text": "The Treaty of Westphalia ended which war?", "correct": "Thirty Years' War", "wrong": ["War of Roses", "Seven Years' War", "Hundred Years' War"] },
+  { "id": "hist-h-2", "category": "history", "difficulty": "hard",   "text": "Who was the longest-reigning Habsburg emperor?", "correct": "Franz Joseph I", "wrong": ["Charles V", "Leopold I", "Maria Theresa"] }
+]
